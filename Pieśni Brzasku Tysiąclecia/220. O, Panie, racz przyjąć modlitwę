@@ -2,7 +2,8 @@
 <song>
   <title>220. O, Panie, racz przyjąć modlitwę</title>
   <lyrics>[V1]
- 1. O, Panie, racz przyjąć modlitwę mych warg
+ 1. O, Panie, racz przyjąć
+ modlitwę mych warg
  i ześlij na sługę miłości Twej zdrój.
  Nie skarżę się wcale, bo na cóż mi skarg,
  gdy czuwasz nade mną, o, Panie, Ty mój!
@@ -13,13 +14,15 @@
  i w opiece nas miej! 
 
 [V2]
- 2. O, Panie, przez Twą krew i trudny Twój krzyż
+ 2. O, Panie, przez Twą krew
+ i trudny Twój krzyż
  racz dodać mi siły, bym wytrwał wśród prób.
  Do Ojca mnie swego przez krew swoją zbliż
  i miej wzgląd na sługę, gdy zbliży się grób. 
 
 [V3]
- 3. Ja wierzę, o Panie, że łaski mi dasz
+ 3. Ja wierzę, o Panie,
+ że łaski mi dasz
  i chwili pozwolisz doczekać mi tej,
  gdy ujrzę nareszcie niebiańską Twą twarz
  i doznam pokoju w radości, ach, mej! </lyrics>
@@ -28,7 +31,7 @@
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
