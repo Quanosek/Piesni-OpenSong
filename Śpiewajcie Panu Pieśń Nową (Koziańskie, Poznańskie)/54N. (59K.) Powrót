@@ -11,20 +11,18 @@
  Czy zechcesz, Ojcze, mi przebaczyć?
  Czy na mnie spojrzeć będziesz chciał?
 
-[C]
+[C1]
  Wracam z daleka dziś do Ciebie,
  dobry Ojcze, ja, marnotrawny syn.
  Chcę prosić Cię o przebaczenie,
  o darowanie moich win.
  Serce przepełnia mi wzruszenie,
  kiedy wreszcie ojcowski ujrzę dom.
-
-[V2]
  Obym chociaż mógł,
  Ojcze, sługą Twoim być,
  gdym Cię zawiódł jako syn.
 
-[V3]
+[V2]
  2. Wiem, Ojcze, sam wybrałem drogę.
  Dziś powracam, niegodny Ciebie syn,
  lecz ty wiesz, Ojcze, że najtrudniej
@@ -34,14 +32,21 @@
  Czy jeszcze, Ojcze, na mnie czekasz?
  Czy zapomniałeś o mnie już?
 
-[V4]
+[C2]
+ Wracam z daleka dziś do Ciebie,
+ dobry Ojcze, ja, marnotrawny syn.
+ Chcę prosić Cię o przebaczenie,
+ o darowanie moich win.
+ Serce przepełnia mi wzruszenie,
+ kiedy wreszcie ojcowski ujrzę dom.
  Nagle w dali, hen,
  widzę Ciebie poprzez łzy,
- na spotkanie idziesz mi.</lyrics>
+ na spotkanie idziesz mi.
+</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 V3 C V4</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
