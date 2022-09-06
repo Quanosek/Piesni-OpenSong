@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>233C. Dziś przychodzę przed Twój tron</title>
-  <lyrics>[V1]
- 1. [: Dziś przychodzę przed Twój tron, 
+  <lyrics>[V]
+ Dziś przychodzę przed Twój tron, 
  aby wyznać winę mą.
- O Panie, oczyść serce me. :]
+ O Panie, oczyść serce me.
+ Dziś pod Twój przychodzę krzyż
+ ciężar, co przygniata mnie, 
+ o Panie, już nie chcę sam go nieść.
 
 [C]
- Ref.: [: Daj czyste serce mi,
+ [: Daj czyste serce mi,
  oczyść usta me, 
  tchnij swego Ducha,
- bym wielbił Cię. :]
-
-[V2]
- 2. [: Dziś pod Twój przynoszę krzyż ciężar, 
- co przygniata mnie, 
- o Panie, już nie chcę sam go nieść. :]</lyrics>
+ bym wielbił Cię. :]</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 C</presentation>
+  <presentation>V C V C</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
