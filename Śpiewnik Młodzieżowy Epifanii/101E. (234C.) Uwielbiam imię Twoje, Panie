@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>108N. Chwalę Ciebie Panie</title>
-  <lyrics>[V]
- [: Chwalę Ciebie, Panie, i uwielbiam,
- wznoszę w górę swoje ręce,
- uwielbiając imię Twe. :]
- [: Bo wielkiś Ty,
- wielkie dzieła czynisz dziś,
- nie dorówna Tobie nikt,
- nie dorówna Tobie nikt. :]
- Bo wielkiś Ty!</lyrics>
+  <title>101E. Uwielbiam imię Twoje, Panie</title>
+  <lyrics>[V1]
+ Uwielbiam imię Twoje, Panie! 
+ Wywyższam Cię i daję Ci hołd.
+ W przedsionku chwały Twej staję, 
+ z radością śpiewam Ci pieśń.
+
+[V2]
+ O Panie Jezu chcę wyznać, że
+ ja kocham Ciebie, Ty zmieniasz mnie.
+ Chcę Ci dziękować dziś ze wszystkich sił, 
+ dajesz mi siebie, bym na wieki żył.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V1 V2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

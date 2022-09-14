@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>35C. Nie bój się</title>
-  <lyrics>[V]
+  <lyrics>[V1]
  Nie bój się bom ja z tobą,
  nie lękaj się, bom ja Bogiem twym.
- Wesprę cię, a dam ci pomoc. Podeprę cię prawicą swą.
- Idź, na cały świat! Powiedz im o miłości mej.
- Więc idź, na cały świat! Powiedz im że ich kocham.
- Nie bój się bom ja z tobą, nie lękaj się, bom ja Bogiem twym.
- Wesprę cię, a dam ci pomoc. Podeprę cię prawicą swą.
+ Wesprę cię, a dam ci pomoc.
+ Podeprę cię prawicą swą.
+
+[V2]
+ Idź, na cały świat!
+ Powiedz im o miłości mej. Więc idź,
+ na cały świat! Powiedz im że ich kocham.
+
+[V3]
+ Nie bój się bom ja z tobą,
+ nie lękaj się, bom ja Bogiem twym.
+ Wesprę cię, a dam ci pomoc.
+ Podeprę cię prawicą swą.
 </lyrics>
   <author></author>
   <copyright></copyright>

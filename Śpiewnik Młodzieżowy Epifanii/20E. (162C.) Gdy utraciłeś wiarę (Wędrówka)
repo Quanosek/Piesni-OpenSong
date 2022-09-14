@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>162C. Wędrówka</title>
+  <title>20E. Gdy utraciłeś wiarę</title>
   <lyrics>[V1]
  1. Gdy utraciłeś w ludzi wiarę,
- widzisz w nich tylko zło.
- I ból przekracza siły miarę,
- to razem z nami chodź.
- Kochającego szukać serca.
+ widzisz w nich tylko zło
+ i ból przekracza siły miarę,
+ to razem z nami chodź
+ kochającego szukać serca.
 
 [C]
  Ref.: Przez pola, lasy wiedzie nasza droga,
@@ -22,7 +22,7 @@
  Jak myślisz po co jest to piękno?        
 
 [V3]
- 3. Wracajmy, słońce zapala las,
+ 3. Wracajmy, słońce, zza pola las,
  mówi dobranoc dniom.
  Bo teraz gwiezdnych szlaków czas
  i dzieci które śnią.
@@ -30,11 +30,11 @@
 
 [V4]
  4. Spójrz, bracie mój, nie jesteś sam,
- jest ktoś kto kocha cię.
+ jest ktoś, kto kocha cię.
  Kto stworzył ten wspaniały świat,
  by ci nie było źle,
  By dać ci dowód swej miłości.</lyrics>
-  <author>(4 zwrotki)</author>
+  <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
@@ -50,5 +50,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

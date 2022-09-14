@@ -10,8 +10,8 @@
 [V2]
  2. Anielska pieśń ta cudowna
  budzi pasterzy w nocy:
- „Radość na niebie chwalebna,
- pokój na ziemi w mocy!” 
+ "Radość na niebie chwalebna,
+ pokój na ziemi w mocy!" 
 
 [V3]
  3. Powiedz nam o życiu Jego,
@@ -41,7 +41,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
