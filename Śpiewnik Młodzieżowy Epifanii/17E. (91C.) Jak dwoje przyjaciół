@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>91C. Jak dwoje przyjaciół</title>
+  <title>17E. Jak dwoje przyjaciół</title>
   <lyrics>[V1]
  1. Jak dwoje przyjaciół,
  tak z moim Panem
@@ -20,7 +20,7 @@
  On wielką swą mocą ochrania mnie.
  Gdy Jego dziecko zasmuci, zlęknie się,
  On sprawia, że mija noc, nastaje dzień.</lyrics>
-  <author>(2 zwrotki)</author>
+  <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C</presentation>
@@ -36,5 +36,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
