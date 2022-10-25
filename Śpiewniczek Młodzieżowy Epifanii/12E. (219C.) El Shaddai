@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>219C. El Szaddaj</title>
+  <title>12E. El Shaddai</title>
   <lyrics>[C]
- Ref.: El Szaddaj,
- El Szaddaj, E-Eljon na Adonaj,
+ Ref.: El Shaddai,
+ El Shaddai, E-Elyon na Adonai,
  wieki płyną Tyś ten sam,
  imienia mocą wiecznie trwasz. 
- El Szaddaj, El Szaddaj
+ El Shaddai, El Shaddai
  Wszechmogący Panie nasz 
- wywyższamy imię Twe, El Szaddaj.
+ wywyższamy imię Twe, El Shaddai.
 
 [V1]
  1. Sam Branka dałeś, by
@@ -31,7 +31,7 @@
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>C V1 C V2 C</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
@@ -44,5 +44,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

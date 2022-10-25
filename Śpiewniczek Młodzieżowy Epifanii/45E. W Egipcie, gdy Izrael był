@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>189C. W Egipcie, gdy Izrael był</title>
+  <title>45E. W Egipcie, gdy Izrael był</title>
   <lyrics>[V1]
  1. W Egipcie, gdy Izrael był;
  Wypuść naród mój!
@@ -8,9 +8,9 @@
  Wypuść naród mój!
 
 [C]
- Ref.: Idź, Mojżeszu!
- Idź do Egiptu sam!
- Powiedz Faraonowi:
+ Ref.: Idź Mojżeszu,
+ idź do Egiptu sam,
+ Powiedz faraonowi:
  "Wypuść naród mój."
 
 [V2]
@@ -20,24 +20,24 @@
  Wypuść naród mój!
 
 [V3]
- 3. Lecz nie pomaga żaden cud;
+ 3. Gdy nie wysłucha żądań mych;
  Wypuść naród mój!
- Faraon trzyma ciągle lud;
+ Wytracę pierworodnych ich;
  Wypuść naród mój!
 
 [V4]
- 4. Gdy nie wypełnisz żądań mych;
+ 4. Lecz nie pomaga żaden cud;
  Wypuść naród mój!
- Wytracę pierworodnych twych;
+ Faraon ciągle trzyma lud;
  Wypuść naród mój!
 
 [V5]
- 5. Jak straszną była tamta noc;
+ 5. O jaką straszną była noc;
  Wypuść naród mój!
  Gdy Bóg okazał swoją moc;
  Wypuść naród mój!
 </lyrics>
-  <author>(5 zwrotek)</author>
+  <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
@@ -53,5 +53,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

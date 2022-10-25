@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>71C. Weselić się będzie</title>
+  <title>42E. Albowiem</title>
   <lyrics>[V]
- Weselić się będzie z pląsaniem panna,
- młodzieńcy, starcy społem.
- La, laj, la, la, laj, la, la, laj, la, la, laj
- La, la, la, la, la, la, la, la, la, la, la.
- [: I w radość zamienię ich płacz. * * * :]
- [: I wybawieniem z smutku będzie radość. :]</lyrics>
+ [: Albowiem tak Bóg świat umiłował :]
+ Umiłował, umiłował, umiłował Bóg ten świat.
+
+ [: że dał jedynego Syna :]
+ Dał Syna, dał Syna, jednorodzonego dał.
+
+ [: aby każdy, kto Weń wierzy:]
+ Nie zginął, nie zginął, ale żywot wieczny miał.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,5 +26,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

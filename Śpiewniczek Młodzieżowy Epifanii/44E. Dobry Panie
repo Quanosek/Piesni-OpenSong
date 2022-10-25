@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>71C. Weselić się będzie</title>
+  <title>44E. Dobry Panie</title>
   <lyrics>[V]
- Weselić się będzie z pląsaniem panna,
- młodzieńcy, starcy społem.
- La, laj, la, la, laj, la, la, laj, la, la, laj
- La, la, la, la, la, la, la, la, la, la, la.
- [: I w radość zamienię ich płacz. * * * :]
- [: I wybawieniem z smutku będzie radość. :]</lyrics>
+ Dobry Panie,
+ Serce me z wdzięczności drży,
+ Ty mi dałeś swego ducha
+ Cześć, chwała Ci.
+</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,5 +23,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
