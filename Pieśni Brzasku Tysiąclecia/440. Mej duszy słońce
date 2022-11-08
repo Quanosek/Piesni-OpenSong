@@ -23,7 +23,7 @@
  4. Najwyborniejszy Skarb ów Twój,
  na jaki Ciebie było stać,
  tak hojnie za mnie dałeś raz,
- by za grzech mój mógł okup dać. </lyrics>
+ by za grzech mój mógł okup dać.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -37,8 +37,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

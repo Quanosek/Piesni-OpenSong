@@ -15,8 +15,7 @@
  Nie ma tu grzechu, cierpień,
  nie ma także chmur.
  O, jakże to cudownie blisko Boga żyć!
- Czy byś i ty nie zechciał tutaj być?
-</lyrics>
+ Czy byś i ty nie zechciał tutaj być?</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -30,8 +29,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

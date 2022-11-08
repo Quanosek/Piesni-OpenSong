@@ -31,7 +31,7 @@
  płynące z Ciebie wód potoki.
  Dla grzesznych radość płynie stąd.
  Niech swe przed Tobą gną kolana,
- niech wielbią wiecznie swego Pana! </lyrics>
+ niech wielbią wiecznie swego Pana!</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -45,8 +45,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

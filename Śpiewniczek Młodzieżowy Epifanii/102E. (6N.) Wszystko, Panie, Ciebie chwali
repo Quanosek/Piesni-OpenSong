@@ -8,12 +8,12 @@
  wszystko Tobie się podobać chce.
 
 [C]
- Ref.: Panie jestem Twoim dzieckiem,
+ Panie jestem Twoim dzieckiem,
  ukochałeś mnie nad życie.
  Mocną ręką mnie prowadzisz,
  błogosławisz mi sowicie sam.
 
- ————————————————————————————
+————————————
 
 [V2]
  2. Ożywiłeś moje serce,
@@ -39,8 +39,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

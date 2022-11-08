@@ -35,7 +35,7 @@
  5. I już zbliża się wiek złoty,
  w którym zginie grzech i zło;
  zginą troski i kłopoty
- przez krew przenajświętszą Twą. </lyrics>
+ przez krew przenajświętszą Twą.</lyrics>
   <author>(5 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -49,8 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

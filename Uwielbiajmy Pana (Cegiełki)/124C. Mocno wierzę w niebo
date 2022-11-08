@@ -9,7 +9,7 @@
  ze wszystkich trwóg. :]
 
 [V1]
- 1. [: Wykonało się rzekł nas Pan, 
+ 1. [: Wykonało się rzekł nasz Pan, 
  gdy na krzyżu za nas zmarł. 
  Wykonało się rzekł nasz Pan, 
  gdy swe życie za nas dał. :]
@@ -32,8 +32,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

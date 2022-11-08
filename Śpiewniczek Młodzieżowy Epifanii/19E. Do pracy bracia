@@ -6,7 +6,6 @@
  Bóg dzisiaj do żniw woła nas,
  gromadzić każe bujny plon,
  żniwiarzy wzywa ze wszech stron.
-
  A więc do pracy stańmy już,
  zbierajmy kłosy bliźnich dusz
  i pamiętajmy w każdy czas,
@@ -26,7 +25,6 @@
  żniwiarzy niech nie spocznie rój,
  niech żadna się nie cofnie dłoń,
  aż zżęta będzie Boża błoń.
-
  I choć grom huczy, wicher dmie,
  nie zejdziem z pola tego, nie,
  do ostatniego trwajmy tchu,
@@ -37,12 +35,10 @@
  zażąda plonu Zbawca Twój,
  więc żwawo, rzeszo, sierpy bierz,
  dokończyć pracę raźno spiesz.
-
  Pan wezwie wkrótce wiernych swych,
  ozdobi wieńcem skronie ich,
  wezwani przed Baranka tron,
- doczesnych trudów zbiorą plon.
-</lyrics>
+ doczesnych trudów zbiorą plon.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -56,8 +52,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

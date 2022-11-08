@@ -23,8 +23,7 @@
  4. Ja wiem, że Pan nam doda sił, 
  pomocy nie odmówi nam,
  bo kto się w cieniu Jego skrył,
- to nad nim czuwa Jezus sam. 
-</lyrics>
+ to nad nim czuwa Jezus sam.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -38,8 +37,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

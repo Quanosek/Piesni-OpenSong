@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>35N. Panie, pragnę kochać Cię</title>
-  <lyrics>[V]
+  <lyrics>[V1]
  [: Panie pragnę kochać Cię
  co raz mocniej z dnia na dzień.
  Jesteś wspaniałością mą.
  Panie, pragnę kochać Cię. :]
+
+[V2]
  Wszystko daję Jezusowi, z Jego łaski pragnę żyć.
  Czy ktoś może zgłębić miłość którą Bóg okazał nam?
  Jak cudowna jest ta chwila,
@@ -24,8 +26,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

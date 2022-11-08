@@ -16,8 +16,7 @@
  2. Chłopiec też ma pracy w bród,
  Rąbie drzewo męski ród.
  Wbija gwoździa, węgla rad,
- Też naznosił siostrze brat.
-</lyrics>
+ Też naznosił siostrze brat.</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -31,8 +30,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

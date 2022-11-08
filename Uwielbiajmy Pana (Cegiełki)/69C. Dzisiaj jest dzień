@@ -9,8 +9,7 @@
  Dzisiaj jest dzień który dał nam Pan.
  Weselmy się i radujmy się w Nim.
  Dzisiaj jest dzień, dzisiaj jest dzień
- który dał nam Pan.
-</lyrics>
+ który dał nam Pan.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,8 +23,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

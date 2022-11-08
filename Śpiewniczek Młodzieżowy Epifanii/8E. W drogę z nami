@@ -46,18 +46,11 @@
  7. Swą miłością opromieniaj
  każdy krok nasz, każdy dzień.
  W bliźnich pozwól dojrzeć siebie,
- Nienawiści usuń cień.
-
-[V8]
- 8. Tyś Duchu przeniknął me ciało,
- więc glinę tę przepalić chciej.
- Ekstaza w półmroku - to mało,
- wlej w ciemność blask Miłości Twej.
-</lyrics>
+ Nienawiści usuń cień.</lyrics>
   <author>(8 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 C V3 C V4 C V5 C V6 C V7 C V8 C</presentation>
+  <presentation>V1 C V2 C V3 C V4 C V5 C V6 C V7 C</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
@@ -67,8 +60,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

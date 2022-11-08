@@ -27,9 +27,7 @@
  4. A chociaż ciężki los pielgrzyma
  na ziemi, kiedy wiedzie bój,
  zwycięży on, gdy trud przetrzyma,
- nagrodę weźmie za swój znój. 
-
-</lyrics>
+ nagrodę weźmie za swój znój.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -43,8 +41,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

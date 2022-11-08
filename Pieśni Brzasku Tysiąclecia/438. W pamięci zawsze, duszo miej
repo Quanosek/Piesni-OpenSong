@@ -29,7 +29,7 @@
  5. Swe serce Barankowi zwierz,
  bo On twój Pan i Król,
  pod Jego skrzydła tylko spiesz,
- gdy ci dolega ból. </lyrics>
+ gdy ci dolega ból.</lyrics>
   <author>(5 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -43,8 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

@@ -35,7 +35,7 @@
  6. A więc wołam z całych sił,
  z głębi serca, myśli mej.
  Z Tobą, Jezu, będę żył,
- boś udzielił Prawdy swej! </lyrics>
+ boś udzielił Prawdy swej!</lyrics>
   <author>(6 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -49,8 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

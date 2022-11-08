@@ -29,7 +29,7 @@
  5. Gdy Tysiąclecia błyśnie dzień,
  Pan nas nagrodzić chce.
  I weźmie w niebo pośród pień
- maluczkie stadko swe. </lyrics>
+ maluczkie stadko swe.</lyrics>
   <author>(5 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -43,8 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

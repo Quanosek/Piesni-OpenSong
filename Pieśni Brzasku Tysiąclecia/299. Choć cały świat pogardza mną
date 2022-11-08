@@ -23,7 +23,7 @@
  4. Więc do Jezusa spieszmy stóp,
  bo w Nim nadzieja cała tkwi,
  a gdy zwycięsko wyjdziem z prób,
- Pan przyjmie nas w Królestwa dni. </lyrics>
+ Pan przyjmie nas w Królestwa dni.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -37,8 +37,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

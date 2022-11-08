@@ -25,8 +25,7 @@
  Wciąż wspominając radosny ten dzień,
  który tak wiele dał mi,
  gdy na rozstaju, mój Jezus do raju,
- z miłością ukazał mi drzwi.
-</lyrics>
+ z miłością ukazał mi drzwi.</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -40,8 +39,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

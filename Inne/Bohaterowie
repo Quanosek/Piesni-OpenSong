@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Bohaterowie</title>
+  <lyrics>[V1]
+ 1. Dawne historie, prawdziwi ludzie,
+ co z Bogiem szli, z Bogiem szli.
+ Cuda tak trudne do uwierzenia,
+ bohaterowie z kości i krwi.
+
+[C]
+ Ref.: Ja mogę, też mogę i ja,
+ być jednym z nim, wierzę w to,
+ bo wiara to siła mocniejsza od skał,
+ to niebios dar, niebios dar.
+
+[V2]
+ 2. Mojżesz i Jozue, Rachab i Dawid,
+ ufali Bogu z wszystkich sił .
+ Spełnienia obietnic oczekiwali,
+ Pan w nimi był, z nimi był.</lyrics>
+  <author>(2 zwrotki)</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs />
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
+</song>

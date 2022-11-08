@@ -23,8 +23,7 @@
  3. Różą tą jest Pan Jezus, mój Zbawca
  i dla Niego poświęcam się ja.
  On jest duszy pokojem i Zbawcą
- i w Chrystusie mym ja wszystko mam.
-</lyrics>
+ i w Chrystusie mym ja wszystko mam.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -38,8 +37,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

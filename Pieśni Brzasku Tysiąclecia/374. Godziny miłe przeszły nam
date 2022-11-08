@@ -35,7 +35,7 @@
  6. Gdy Stwórca nas odwoła stąd, Braterstwo, pokój wam,
  to chwała pieśni zabrzmi w nas, Braterstwo, pokój wam!
  Oddamy Bogu chwałę wraz, radosny śpiew na wieczny czas.
- Braterstwo, pokój wam! </lyrics>
+ Braterstwo, pokój wam!</lyrics>
   <author>(6 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -49,8 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

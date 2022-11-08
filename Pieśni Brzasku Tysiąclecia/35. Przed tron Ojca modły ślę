@@ -23,7 +23,7 @@
  4. Więc gdy przyjdzie chwila zła,
  do Ojcowskich biegnę stóp.
  Modlę się, a Ojciec da,
- że zwycięsko wyjdę z prób. </lyrics>
+ że zwycięsko wyjdę z prób.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -37,8 +37,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

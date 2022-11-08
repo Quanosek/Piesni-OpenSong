@@ -47,7 +47,7 @@
  8. Ja jarzmo moje z wami noszę,
  przy Ojcu jestem w każdy czas.
  On dobry, a ja Jego proszę,
- by do zwycięstwa przywiódł was. </lyrics>
+ by do zwycięstwa przywiódł was.</lyrics>
   <author>(8 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -61,8 +61,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

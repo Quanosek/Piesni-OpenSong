@@ -22,7 +22,7 @@
  3. O, gdyby w tej wierze przystojnie człek żył,
  to pewność zbawienia by miał.
  Przyjąłby go Ojciec, szczęśliwym by był,
- gdyby każdy ufać Bogu chciał. </lyrics>
+ gdyby każdy ufać Bogu chciał.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -36,8 +36,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

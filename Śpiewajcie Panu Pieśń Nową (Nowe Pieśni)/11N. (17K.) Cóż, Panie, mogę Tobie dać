@@ -7,6 +7,7 @@
  i łzami zmywa grzechu ślad,
  cóż, Panie, mogę Tobie dać?
 
+[V2]
  Weź Panie proszę moje łzy,
  niech chociaż one wielbią Cię
  i strumieniami jasnych wód
@@ -18,12 +19,13 @@
  Niech Twoja miłość da mu moc,
  by czułe było na Twój głos.
 
-[V2]
+[V3]
  2. Z ciemności ku jaśniejszym dniom
  idę, potykam się co krok,
  zmęczone nogi nie chcą nieść,
  wdzięczności pieśń przysypał kurz.
 
+ [V4]
  A ciągle błagam, wołam wciąż
  o Twoją pomoc, Twoją dłoń
  i biorę mało dając sam,
@@ -33,8 +35,7 @@
  Ref.: Weź moje serce i otul je,
  niech nigdy już nie będzie samo.
  Niech Twoja miłość da mu moc,
- [: by czułe było na Twój głos. :]
-</lyrics>
+ [: by czułe było na Twój głos. :]</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -48,8 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

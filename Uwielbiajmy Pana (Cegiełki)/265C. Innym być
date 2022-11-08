@@ -9,8 +9,7 @@
  Ścieżek swoich naucz mnie, bym nie błądził już.
  Tam chcę dotrzeć gdzie mój Pan,
  Tam chcę dotrzeć gdzie mój Bóg.
- On przywita mnie, tam przywita mnie.
-</lyrics>
+ On przywita mnie, tam przywita mnie.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -24,8 +23,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

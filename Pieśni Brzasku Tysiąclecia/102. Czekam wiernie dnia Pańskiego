@@ -6,6 +6,7 @@
  czekam na ten wielki dzień,
  gdy głos chóru anielskiego
  zabrzmi wśród radosnych pień.
+
  Czekam, kiedy słońce wstanie,
  niosąc światu jasny blask,
  kiedy przyjdzie zmartwychwstanie,
@@ -16,6 +17,7 @@
  gdy Pan zajmie wzniosły Tron,
  gdy w pośrodku Swego ludu
  będzie nam panować On.
+
  Czekam na spełnienie planu,
  jaki Bóg nakreślił Sam,
  cała ma nadzieja w Panu,
@@ -26,6 +28,7 @@
  które się przybliża już,
  i do Pana się uciekam
  wśród okrutnych życia burz.
+ 
  Ale wiem, że świat ten stary
  wnet zakończy swoje dni,
  a oczyma mojej wiary
@@ -43,8 +46,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

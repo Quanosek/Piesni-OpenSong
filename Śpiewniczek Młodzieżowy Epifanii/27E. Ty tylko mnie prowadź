@@ -22,8 +22,7 @@
  i pokaż mi jedną, tę jedną z nich.
  A kiedy już głos Twój usłyszę
  i karmić się będę nim co dzień,
- miej w sobie tę ufność, nie lękaj się.
-</lyrics>
+ miej w sobie tę ufność, nie lękaj się.</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -37,8 +36,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

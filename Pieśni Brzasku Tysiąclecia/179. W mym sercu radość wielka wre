@@ -29,7 +29,7 @@
  Bo przez Syonu wzniosły stan,
  przez Jego chwały blaski 
  popłynie wnet na ziemski łan
- zdrój nieprzebranej łaski. </lyrics>
+ zdrój nieprzebranej łaski.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -43,8 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

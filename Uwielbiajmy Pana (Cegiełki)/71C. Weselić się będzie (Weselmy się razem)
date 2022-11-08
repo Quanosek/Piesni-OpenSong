@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>40E. Weselić się będzie</title>
+  <title>71C. Weselić się będzie</title>
   <lyrics>[V]
  Weselić się będzie z pląsaniem panna,
  młodzieńcy, starcy społem.
@@ -21,8 +21,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

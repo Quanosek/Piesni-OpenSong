@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>218C. Jeśli na piasku</title>
+  <title>49E. Domy</title>
   <lyrics>[V1]
- Jeśli na piasku zbudujesz swój dom,
+ 1. Jeśli na piasku zbudujesz swój dom,
  gdyby na piasku on stał,
  wiedz, że choćby piękny był
  i podwójne mury miał,
  budować będziesz jeszcze raz.
- Na mocnej skale dom twój ma stać
+
+[C]
+ Ref.: Na mocnej skale dom twój ma stać
  i fundament on solidny musi mieć,
  bo gdy uderzy wiatr i deszcz,
  twój dom będzie pewnie stał.
-
- ————————————
 
 [V2]
  2. Jeśli na skale zbudujesz swój dom,
@@ -20,25 +20,17 @@
  wiedz, że choćby skromny był,
  pojedyncze mury miał,
  budować będziesz tylko raz.
- Na mocnej skale dom twój ma stać
- i fundament on solidny musi mieć,
- bo gdy uderzy wiatr i deszcz,
- twój dom będzie pewnie stał.
 
 [V3]
- 3. To skałą jest Chrystus Pan,
+ 3. To skałą jest Chrystus, Pan,
  i na Nim buduj swój dom,
  wiedz, że choćby skromny był,
  pojedyncze mury miał,
- budować będziesz tylko raz.
- Na mocnej skale dom twój ma stać
- i fundament on solidny musi mieć,
- bo gdy uderzy wiatr i deszcz,
- twój dom będzie pewnie stał.</lyrics>
-  <author></author>
+ dom twój na pewno będzie stać.</lyrics>
+  <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
@@ -48,8 +40,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

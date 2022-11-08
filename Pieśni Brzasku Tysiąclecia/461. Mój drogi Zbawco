@@ -39,7 +39,7 @@
  i ciało nowe dasz mi, Panie,
  które posłuszne będzie Ci,
  i będę żył w niebiańskim stanie
- na wieczną cześć i chwałę Ci. </lyrics>
+ na wieczną cześć i chwałę Ci.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -53,8 +53,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

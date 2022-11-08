@@ -29,7 +29,7 @@
  4. Ach, weź, Jezu, w niebo mnie i chwałę daj! 
  Niech proroctwo spełni się, niech błyśnie raj. 
  Niech Twój sprawiedliwy rząd podźwignie świat,
- niech zakwitnie ziemski ląd jak rajski kwiat. </lyrics>
+ niech zakwitnie ziemski ląd jak rajski kwiat.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -43,8 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

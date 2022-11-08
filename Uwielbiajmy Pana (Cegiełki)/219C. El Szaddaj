@@ -2,8 +2,8 @@
 <song>
   <title>219C. El Szaddaj</title>
   <lyrics>[C]
- Ref.: El Szaddaj,
- El Szaddaj, E-Eljon na Adonaj,
+ Ref.: El Szaddaj, El Szaddaj,
+ E-Eljon na Adonaj,
  wieki płyną Tyś ten sam,
  imienia mocą wiecznie trwasz. 
  El Szaddaj, El Szaddaj
@@ -41,8 +41,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

@@ -41,7 +41,7 @@
  7. Przy świętej wzmocnij nas wieczerzy
  w cnocie, w mądrości, Panie nasz!
  Duch nasz niech Twojej łasce wierzy,
- że nam szczęśliwość wieczną dasz. </lyrics>
+ że nam szczęśliwość wieczną dasz.</lyrics>
   <author>(7 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -55,8 +55,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

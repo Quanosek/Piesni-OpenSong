@@ -35,7 +35,7 @@
  5. I już wschodzą jasne zorze;  
  słuszny czas nadchodzi już, 
  bo jak głosi Słowo Boże,  
- czas miał przyjść wśród jasnych zórz. </lyrics>
+ czas miał przyjść wśród jasnych zórz.</lyrics>
   <author>(5 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -49,8 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

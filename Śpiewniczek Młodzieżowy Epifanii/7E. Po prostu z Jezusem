@@ -21,8 +21,7 @@
 
 [V4]
  4. Mocno uścisnąć bratnią dłoń,
- każdemu w oczy spojrzeć móc.
-</lyrics>
+ każdemu w oczy spojrzeć móc.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -36,8 +35,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

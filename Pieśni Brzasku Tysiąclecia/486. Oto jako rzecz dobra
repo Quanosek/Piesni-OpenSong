@@ -2,15 +2,16 @@
 <song>
   <title>486. Oto jako rzecz dobra</title>
   <lyrics>[V]
- Oto jako rzecz dobra i jako wdzięczna,  
- gdy bracia zgodnie mieszkają.  
- Jest jako olejek najwyborniejszy  
- wylany na głowę, ściekający na brodę,  
- na brodę Aaronową;  
- ściekający aż i na podołek szat jego.  
- Jako rosa Hermon,  
- która zstępuje na Góry Syońskie.  
- Albowiem tam daje Pan  
+ Oto jako rzecz dobra i jako wdzięczna,
+ gdy bracia zgodnie mieszkają.
+ Jest jako olejek najwyborniejszy,
+ wylany na głowę, ściekający na brodę,
+ na brodę Aaronową;
+ ściekający aż i na podołek szat jego.
+
+ Jako rosa Hermon,
+ która zstępuje na Góry Syońskie.
+ Albowiem tam daje Pan
  błogosławieństwo i żywot aż na wieki.</lyrics>
   <author></author>
   <copyright></copyright>
@@ -25,8 +26,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

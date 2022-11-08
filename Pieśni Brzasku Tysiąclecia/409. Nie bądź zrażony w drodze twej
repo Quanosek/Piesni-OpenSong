@@ -29,7 +29,7 @@
  4. Choć ciężkie próby zdarzą się,
  Bóg w pieczy swej cię ma.
  Ufaj, Bóg nie opuści cię
- i pomoc swą ci da. </lyrics>
+ i pomoc swą ci da.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -43,8 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

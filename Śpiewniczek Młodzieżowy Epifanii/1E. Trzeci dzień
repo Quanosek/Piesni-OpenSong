@@ -23,8 +23,7 @@
  niech wiedzie prosto cię.
  Spójrz, jak pusty jest ten grób,
  przypomnij sobie dzień,
- gdy mówił o tym Pan ucząc cię.
-</lyrics>
+ gdy mówił o tym Pan ucząc cię.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -38,8 +37,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

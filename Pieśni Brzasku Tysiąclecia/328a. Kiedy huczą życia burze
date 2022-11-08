@@ -35,7 +35,7 @@
  5. Jeszcze tylko mała chwilka,
  a wnet się znajdziemy tam.
  Jeszcze tylko kroków kilka,
- a wśród nieba staniem bram. </lyrics>
+ a wśród nieba staniem bram.</lyrics>
   <author>(5 zwrotek)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -49,8 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

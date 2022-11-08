@@ -5,10 +5,10 @@
  [: Albowiem tak Bóg świat umiłował :]
  Umiłował, umiłował, umiłował Bóg ten świat.
 
- [: że dał jedynego Syna :]
+ [: Że dał jedynego Syna, :]
  Dał Syna, dał Syna, jednorodzonego dał.
 
- [: aby każdy, kto Weń wierzy:]
+ [: Aby każdy, kto Weń wierzy :]
  Nie zginął, nie zginął, ale żywot wieczny miał.</lyrics>
   <author></author>
   <copyright></copyright>
@@ -23,8 +23,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

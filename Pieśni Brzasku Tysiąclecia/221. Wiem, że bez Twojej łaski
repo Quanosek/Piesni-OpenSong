@@ -29,7 +29,7 @@
  4. I wiem, że w Twej zasłudze
  Tyś wady nasze skrył,
  by Bóg przepuścił słudze,
- by w chwale wiecznie żył. </lyrics>
+ by w chwale wiecznie żył.</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -43,8 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

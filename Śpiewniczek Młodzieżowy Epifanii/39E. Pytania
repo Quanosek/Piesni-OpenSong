@@ -27,8 +27,7 @@
  Ref.: [: I prowadź nas po każdej drodze życia,
  i prowadź nas przez blask Twego odbicia,
  i prowadź nas wśród ludzi po kryjomu,
- i prowadź nas drogą do domu. :]
-</lyrics>
+ i prowadź nas drogą do domu. :]</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -42,8 +41,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
 </song>

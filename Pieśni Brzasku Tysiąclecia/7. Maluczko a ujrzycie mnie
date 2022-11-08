@@ -25,7 +25,7 @@
  I cały świat Mu odda cześć,
  do Jego przyjdzie nóg,
  bo w Panu znajdzie życia treść
- i pozna, że jest Bóg. </lyrics>
+ i pozna, że jest Bóg.</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -39,8 +39,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>

@@ -35,8 +35,7 @@
  I świat na Jego stanie zew i wierzyć będzie w Jego krew,
  i okup przyjmie z Jego rąk, i już nie będzie śmierci mąk.
  Ach, patrz! Ach, patrz! Wnet błyśnie raj na ziemi.
- Ach, patrz i wiedz, że minie śmierci stan. 
-</lyrics>
+ Ach, patrz i wiedz, że minie śmierci stan.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -50,8 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>
