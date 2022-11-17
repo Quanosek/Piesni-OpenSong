@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>24N. Święte imię Jezus</title>
+  <title>Nasz Pan jest potężny</title>
   <lyrics>[V]
- [: Święte imię Jezus :]
- jest na ustach mych
- i w sercu mym.
- W mocy Ducha uwielbiam Cię!
-
- Nie ma w innym zbawienia,
- gdyż nie dano nam, ludziom
- innego imienia,
- w Nim zbawienie jest.</lyrics>
+ [: Nasz Pan jest potężny w mocy swej,
+ króluje nad nami, dziś.
+ Z nieba rządzi w mocy,
+ miłości, mądrości swej. :]</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -27,5 +22,5 @@
   <linked_songs />
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
 </song>
