@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>24N. Święte imię Jezus</title>
-  <lyrics>[V]
- [: Święte imię Jezus :]
- jest na ustach mych
+  <lyrics>[V1]
+ [: Święte imię Jezus,
+ święte imię Jezus.
+ Jest na ustach mych
  i w sercu mym.
- W mocy Ducha uwielbiam Cię!
+ W mocy Ducha uwielbiam Cię! :]
 
- Nie ma w innym zbawienia,
+[V2]
+ [: Nie ma w innym zbawienia,
  gdyż nie dano nam, ludziom
  innego imienia,
- w Nim zbawienie jest.</lyrics>
+ w Nim zbawienie jest. :]</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V1 V2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
