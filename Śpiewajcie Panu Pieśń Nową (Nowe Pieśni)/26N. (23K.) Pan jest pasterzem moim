@@ -2,9 +2,13 @@
 <song>
   <title>26N. Pan jest pasterzem moim</title>
   <lyrics>[V]
+.Dm           Gm      Dm
  Pan jest pasterzem moim,
+.B          C       F     A7
  niczego mi nie braknie.
+. B               C             F  A7 Dm
  [: Na niwach zielonych pasie mnie,
+.Gm               A7         Dm  A Dm
  nad wody spokojne prowadzi mnie. :]</lyrics>
   <author></author>
   <copyright></copyright>
@@ -19,8 +23,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

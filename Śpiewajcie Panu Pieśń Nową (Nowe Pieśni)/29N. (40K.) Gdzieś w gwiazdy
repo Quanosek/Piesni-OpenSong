@@ -2,23 +2,39 @@
 <song>
   <title>29N. Gdzieś w gwiazdy</title>
   <lyrics>[V1]
+.                 Am
  1. Gdzieś w gwiazdy podnoszę swój wzrok,
+.     C
  by dostrzec Cię tam.
+.     G
  Nadzieją oddycham Twą,
+.Am                     E
  pokarm w słowie mam.
+.      Am
  Do Ciebie przychodzę co noc,
+.     C
  by ból zrzucić swój,
+.     G
  co piersi zatyka wciąż
+.  E                      E7
  i siłę mą niszczy i niszczy mój trud.
 
 [C1]
+.            Am
  Ref.: Ty dałeś nam Syna krew.
+.         C
  Przez Niego do Ciebie ślę
+.     G
  modlitwę skruszonych warg,
+.  E                         E7
  i przyjmij, i pomóż, i siłę Swą daj.
+.            Am
  Ty dałeś nam Syna krew.
+.         C
  Przez Niego do Ciebie ślę
+.     G
  modlitwę skruszonych warg,
+.  Am                     E
  i przyjmij, i pomóż nam.
 
 [V2]
@@ -73,8 +89,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

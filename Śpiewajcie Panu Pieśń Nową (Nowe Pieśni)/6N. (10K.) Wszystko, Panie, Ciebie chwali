@@ -2,15 +2,23 @@
 <song>
   <title>6N. Wszystko, Panie, Ciebie chwali</title>
   <lyrics>[V1]
+.  Em                      C
  1. Wszystko, Panie, Ciebie chwali:
+.G                H7
  ptaki, kwiaty, wicher, woda;
+.Em                   C
  bo Ty wszystko masz w opiece,
+.G                     H7              Em
  wszystko Tobie się podobać chce.
 
 [C]
+.                          C
  Ref.: Panie jestem Twoim dzieckiem,
+.G             H7
  ukochałeś mnie nad życie.
+.Em              C
  Mocną ręką mnie prowadzisz,
+.G                H7            Em
  błogosławisz mi sowicie sam.
 
 [V2]
@@ -37,8 +45,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

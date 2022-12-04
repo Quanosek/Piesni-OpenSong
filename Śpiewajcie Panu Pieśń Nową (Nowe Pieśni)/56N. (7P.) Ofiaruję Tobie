@@ -2,11 +2,16 @@
 <song>
   <title>56N. Ofiaruję Tobie</title>
   <lyrics>[V]
+.D          A                 Hm
  Ofiaruję Tobie, Panie mój,
+.Fis           G
  całe życie me,
+.                 A
  cały jestem Twój,
  aż na wieki.
+.D             A                   Hm
  Oto moje serce przecież wiesz,
+.Fis               G      A    D
  Tyś miłością mą jedyną jest.</lyrics>
   <author></author>
   <copyright></copyright>
@@ -21,8 +26,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

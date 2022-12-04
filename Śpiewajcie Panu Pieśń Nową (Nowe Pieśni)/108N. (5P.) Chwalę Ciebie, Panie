@@ -2,14 +2,21 @@
 <song>
   <title>108N. Chwalę Ciebie, Panie</title>
   <lyrics>[V]
+.                          C            Em
  [: Chwalę Ciebie, Panie, i uwielbiam,
+.                F                G
  wznoszę w górę swoje ręce,
  uwielbiając imię Twe. :]
  
+.                  C
  [: Bo wielkiś Ty,
+.                              Am
  wielkie dzieła czynisz dziś,
+.                             F
  nie dorówna Tobie nikt,
+.          G
  nie dorówna Tobie nikt. :]
+.                C
  Bo wielkiś Ty!</lyrics>
   <author></author>
   <copyright></copyright>
@@ -24,8 +31,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

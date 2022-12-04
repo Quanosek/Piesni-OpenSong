@@ -2,23 +2,39 @@
 <song>
   <title>74N. Pan przed nami szedł</title>
   <lyrics>[V1]
+.             D               G
  1. Przez długie tysiąclecia
+.     Em             A
  za Tobą ludzie szli.
+.     D                 Hm
  Po drogach i bezdrożach
+.      G           A
  w opadające mgły.
+.            D                   G
  W ciemności światłem byłeś
+.    Em                 A
  i chmurą byłeś w dzień,
+.    D               Hm
  za rękę prowadziłeś,
+.       G                A
  zwątpienia znikał cień.
 
 [C]
+.          D                      A
  Ref.: A Pan przed nami szedł,
+.        G                         D  A
  z pochodnią wśród ciemności
+.    D                 Hm
  i z nami śpiewał pieśń
+.   Em                  A
  o ludziach i wieczności.
+.          D                     A
  Przed wiatrem chronił nas,
+.      G              D A
  jak skała na pustyni
+.  D                  Hm
  i mannę dawał nam,
+.        Em                 A
  by w drodze nas posilić.
 
 [V2]
@@ -63,8 +79,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

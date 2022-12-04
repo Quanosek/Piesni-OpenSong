@@ -2,18 +2,29 @@
 <song>
   <title>85N. Pan wywyższony</title>
   <lyrics>[V1]
+.E
  Pan wywyższony,
+.      Cism                               A
  nasz Król wywyższony wśród chwał,
+.        E        H7
  uwielbiajmy Go.
+.E                               Cism
  Pan wywyższony, nasz Król wywyższony,
+.     A H7 A H7 Cism
  oddajmy Jemu cześć!
 
 [V2]
+.Fism           H7
  Królem jest Pan,
+.       E                   Cism
  Jego łaska na wieki trwa.
+.Fism     H7
  Niebo i ziemio,
+.    E           H7      A  E
  radujcie się Jego imieniem!
+.Fism
  Pan wywyższony,
+.       H7                                 E
  nasz Król wywyższony wśród chwał.</lyrics>
   <author></author>
   <copyright></copyright>
@@ -28,8 +39,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

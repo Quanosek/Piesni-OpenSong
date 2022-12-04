@@ -2,19 +2,31 @@
 <song>
   <title>80N. Prawda jedyna</title>
   <lyrics>[V1]
+.  D              A
  1. Prawda jedyna,
+.            Fism         Cism
  słowa Jezusa z Nazaretu,
+.D            A
  że Swego Syna
+.           Fism                Cism
  posłał z niebios Bóg na świat,
+.D         A
  aby niewinnie
+.            Fism                Cism
  cierpiąc, zmarł za nasze grzechy
+.D            A
  i w pohańbieniu
+.          Fism                  Cism
  przyjął winy wszystkich nas.
 
 [C]
+.        D          A
  Ref.: [: Dzięki Ci,
+.        Fism          Cism
  Boże mój, za ten krzyż,
+.         D                 A
  który Jezus cierpiał za mnie,
+.Fism             Cism
  Jezus cierpiał za mnie. :]
 
 [V2]
@@ -39,8 +51,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

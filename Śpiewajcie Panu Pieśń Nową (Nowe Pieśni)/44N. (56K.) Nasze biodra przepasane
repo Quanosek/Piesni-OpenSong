@@ -2,19 +2,31 @@
 <song>
   <title>44N. Nasze biodra przepasane</title>
   <lyrics>[V1]
+.              Dm
  1. Nasze biodra przepasane,
+.              F
  w torbie kromka chleba tkwi,
+.C                     Dm
  więcej nie bierz nic.
+.        Dm
  Poniesiemy miłość, pokój,
+.            F
  radość, którą daje Bóg.
+.         C                 Dm
  Przyjacielem będzie wróg.
 
 [C]
+.                    F
  Ref.: [: Nasze życie to wędrówka
+.         C
  do niebieskich Ojca bram,
+.             Gm             Dm
  gdzie na tronie czeka Pan.
+.           F
  On prowadzi nas w obłoku,
+.             C
  w słupie ognia nocą lśni.
+.          Gm                  Dm
  Czy otworzy szczęścia drzwi? :]
 
 [V2]
@@ -45,8 +57,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

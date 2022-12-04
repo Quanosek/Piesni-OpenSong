@@ -2,20 +2,33 @@
 <song>
   <title>2N. Stwórca wszystkich rzeczy</title>
   <lyrics>[V1]
+.    Em                       Hm
  1. Stwórca wszystkich rzeczy,
+.Em             Hm
  malarz firmamentu,
+.C
  to co najcenniejsze, Panie,
+.H7
  dałeś mi.
+.      Em                        Hm
  Od dnia, gdy Cię spotkałem
+.             Em             Hm
  i gdy poznaję miłość Twą
+.      C
  me serce coraz bliżej Ciebie,
+.H7
  Panie, jest.
 
 [C]
+.       Em
  Ref.: Panie mój,
+.        D                   Hm
  tylko Ciebie wielbić chcę.
+.        C                 H7            Em
  Twa miłość całkiem odmieniła mnie.
+.                        D                  Hm
  Panie mój, tylko Ciebie wielbić chcę
+.    C                        H7    Em
  za to, kim naprawdę jesteś Ty.
 
 [V2]
@@ -40,8 +53,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

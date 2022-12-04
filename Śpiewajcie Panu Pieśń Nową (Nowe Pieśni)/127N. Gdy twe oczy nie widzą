@@ -2,19 +2,31 @@
 <song>
   <title>127N. Gdy twe oczy nie widzą</title>
   <lyrics>[V1]
+.Em                      D                 Hm   Em
  Gdy twe oczy nie widzą, musisz wierzyć.
+.G           Hm                            C
  Musisz zaufać, gdy zawiedzie cię słuch.
+.Em                         D                   Hm  Em
  Gdy chcesz poznać Boga, musisz uwierzyć,
+.            Hm                          C
  a wtedy Jego poprowadzi cię duch.
 
 [V2]
+.             Am
  Chcemy wiarę mieć jak Abraham,
+.           Em
  gdy na górę ze synem swym szedł.
+.     Am
  Jak Noe, gdy arkę budował
+.                Em
  pewien, że Boży spadnie wnet deszcz.
+.                  Am
  Chcemy jak Mojżesz sucho przez morze przejść,
+.              Em               Dm
  z wiarą Jozuego obalić miasta mur.
+.                   C
  Niech nasza wiara góry, drzewa
+.               D                               Em
  przenosi w środek wzburzonych mórz.</lyrics>
   <author></author>
   <copyright></copyright>
@@ -29,8 +41,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

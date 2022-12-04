@@ -2,15 +2,23 @@
 <song>
   <title>23N. Ludu Pański</title>
   <lyrics>[V1]
+.            Am                           G
  1. Ludu Pański czuwaj bądź gotowy,
+.                      E7       Am
  niechaj światło płonie twe.
+.              Am                         G
  Wnet zaświta dla ciebie dzień nowy,
+.                      E7      Am
  więc przygotuj lampy swe.
 
 [C]
+.                     F/C
  Ref.: [: Bądź gotowy Pan twój woła :]
+.             G/E7          Am
  [: czuwaj bo się chyli dzień :]
+.            F/C
  [: aż cię Zbawca twój powoła :]
+.                      G/E7               Am
  [: w kraj, gdzie zniknie smutku cień :]
 
 [V2]
@@ -43,8 +51,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

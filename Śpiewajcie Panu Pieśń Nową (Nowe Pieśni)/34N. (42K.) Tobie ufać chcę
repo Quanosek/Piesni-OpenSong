@@ -2,13 +2,21 @@
 <song>
   <title>34N. Tobie ufać chcę</title>
   <lyrics>[V]
+.Am           Dm
  Przy Tobie skryję się,
- Ty zawsze będziesz w sercu mym
+.G             C                      F
+ Ty zawsze budzisz w sercu mym
+.         Dm                  E                     E7
  wyzwolenia pieśń, nie będę się więcej bać.
- [: Tobie ufać chcę! :]
- Wiem już dziś, że siłą mą, mocą mą jest sam Pan.
- [: Tobie ufać chcę :]
- powiem wszystkim:
+.                Am  Dm             G
+ Tobie ufać chcę! Tobie ufać chcę!
+.C                       F    Dm         E
+ Wiem już dziś, że siłą mą, mocą mą
+.                                    Am
+ jest sam Pan. Tobie ufać chcę.
+.Dm           G    C
+ Tobie ufać chcę, powiem wszystkim:
+.F    Dm         E                                       Am
  siłą mą, mocą mą jest sam Pan, Tobie ufać chcę!</lyrics>
   <author></author>
   <copyright></copyright>
@@ -23,8 +31,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

@@ -2,15 +2,23 @@
 <song>
   <title>16N. Tak jak jeleń</title>
   <lyrics>[V1]
+.C        Em         Am
  Tak jak jeleń do źródła wody,
+.         F         G        C   G
  dusza ma do Ciebie lgnie.
+.C          Em            Am
  Tyś pragnieniem mojego serca!
+.           F        G         C
  Ciebie, Panie, wielbić chcę.
 
 [V2]
+.Am                   F        C
  Tyś mą siłą, Tyś tarczą jest,
+.     F                  Dm    E7
  na Tobie tylko polegać chcę.
+.C          Em            Am
  Tyś pragnieniem mojego serca!
+.           F        G        C
  Ciebie, Panie, wielbić chcę.</lyrics>
   <author></author>
   <copyright></copyright>
@@ -25,8 +33,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
