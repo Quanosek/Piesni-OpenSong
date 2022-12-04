@@ -2,13 +2,13 @@
 <song>
   <title>1. Daj, Boże Święty</title>
   <lyrics>[V1]
-.G      D  e  G/H  e   D    G
+.G        D  e  G/H e     D   G
  Daj, Boże święty, nam łask zdrój
-.         D    e  C     G   D
+.             D      e  C      G     D
  co płyną prawdą z świętych Ksiąg.
-.e     D   G  D G/H C D   G
+.e         D  G  D G/H C D    G
  Niech nas prowadzi rozum Twój
-.        e   D  a   G   D  G
+.           e    D a    G    D G
  i niech nas łączy w braci krąg.
 
 [V2]
@@ -47,8 +47,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
