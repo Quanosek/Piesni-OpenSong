@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>85N. Pan wywyższony</title>
-  <lyrics>[V]
- Pan wywyższony, nasz Król wywyższony wśród chwał,
+  <lyrics>[V1]
+ Pan wywyższony,
+ nasz Król wywyższony wśród chwał,
  uwielbiajmy Go.
  Pan wywyższony, nasz Król wywyższony,
  oddajmy Jemu cześć!
+
+[V2]
  Królem jest Pan,
  Jego łaska na wieki trwa.
- Niebo i ziemio, radujcie się Jego imieniem!
- Pan wywyższony, nasz Król wywyższony wśród chwał.</lyrics>
+ Niebo i ziemio,
+ radujcie się Jego imieniem!
+ Pan wywyższony,
+ nasz Król wywyższony wśród chwał.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V1 V2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
