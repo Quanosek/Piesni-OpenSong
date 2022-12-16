@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>58C. Gdzie dwóch lub trzech</title>
+  <title>137C. Jezus zmartwychwstał</title>
   <lyrics>[V1]
- 1. Gdzie dwóch, lub trzech
- w imieniu moim zgromadzi się,
- tam ja wśród nich
- przebywam zawsze rad.
+ Jezus zwyciężył!
+ to wykonało się!
+ Szatan pokonany,
+ Jezus złamał śmierci moc.
+ Jezus jest Panem. O, alleluja!
+ Po wieczne czasy Królem królów jest.
 
-[V2]
- 2. O Panie nasz!
- Wielbimy Cię żeś jest wśród nas
- i karmisz nas
- prowadząc Duchem swym.</lyrics>
+[C1]
+ Refren:
+ [: Jezus jest Panem :] x4
+ Tylko Jezus jest Panem,
+ Jezus jest Panem
+ On jest Panem ziemi tej.
+
+[C2]
+ [: Alleluja, alleluja,
+ alleluja, alleluja :]
+ [: Al-le-lu-ja,
+ alleluja, alleluja. :]</lyrics>
   <author>(2 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C1 C2 V1 C1 C2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
