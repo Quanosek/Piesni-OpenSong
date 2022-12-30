@@ -1,7 +1,5 @@
-# Śpiewniki Badaczy Pisma Świętego dla programu OpenSong
+# **Śpiewniki Badaczy Pisma Świętego dla programu OpenSong**
 
-wystarczy zainstalować program OpenSong, najlepiej korzystając z dołączonego instalatora ( Install.exe ), a następnie skopiować wszystkie foldery z pieśniami do wybranego w programie folderu "Songs" (lub domyślnej lokalizacji).
+**Program OpenSong** oferuje wyświetlanie pokazu slajdów z tekstem pieśni, podzielone na zwrotki. Aby zainstalować ten program, [pobierz wszystkie pliki](https://github.com/Quanosek/Piesni-OpenSong/archive/refs/heads/main.zip), a następnie uruchom **_plik Install.exe_**. Po udanej instalacji, przenieść wszystkie foldery śpiewników do wybranej w programie lokalizacji _(lub domyślnego folderu "Songs")_.
 
-W razie pytań, zawsze możesz skontaktować się ze mną: kubaklalo@gmail.com
-
-### w przyszłości pojawi się bardziej szczegółowa instrukcja!
+W przypadku zauważenie błędów w tekście lub problemie w instalacji, napisz do mnie na [maila](mailto:kubaklalo@gmail.com), w temacie pisząc: **OpenSong**.
