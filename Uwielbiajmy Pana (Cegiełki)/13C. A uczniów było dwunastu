@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>13C. A uczniów było dwunastu</title>
-  <lyrics>[V1]
+  <lyrics>[C]
+ Refren:
  [: A-a A-a A-a A :]
 
+ [V1]
  1. A uczniów było dwunastu,
  a ludzi były miliony.
  Rozeszli się uczniowie
@@ -14,8 +16,6 @@
  a uczniów było dwunastu.
 
 [V2]
- [: A-a A-a A-a A :]
-
  2. Ich było tylko dwunastu,
  i Pocieszyciel był jeden,
  łamali się z wszystkimi
@@ -26,8 +26,6 @@
  a pokój jeden święty.
 
 [V3]
- [: A-a A-a A-a A :]
-
  3. Niech lasy zakwitną oliwne,
  śpiewajmy ludziom pieśń nową
  Zanieśmy do swych domów
@@ -35,13 +33,11 @@
  Zanieśmy do swoich domów
  gałązki pojednania.
  Niech lasy zakwitną oliwne,
- ogrody zmartwychwstania.
- 
- [: A-a A-a A-a A :]</lyrics>
+ ogrody zmartwychwstania.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>C V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

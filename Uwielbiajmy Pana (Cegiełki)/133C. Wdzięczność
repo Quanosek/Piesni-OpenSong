@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>133C. Wdzięczność</title>
-  <lyrics>[C1]
+  <lyrics>[C]
  Ref.: Jak wysłowić wdzięczność mą 
  za tysiące łask,
  jak okazać miłość mą?
@@ -14,25 +14,11 @@
  Przyjm moich oczu wdzięczny blask,
  mój Boże, dzięki Ci.
 
-[C2]
- Ref.: Jak wysłowić wdzięczność mą 
- za tysiące łask,
- jak okazać miłość mą?
- Mój Boże, powiedz, wskaż mi jak
- okazać miłość mą?
-
 [V2]
  2. Za poszum lasu, kwiatów woń,
  zboża łan co złotem lśni.
  Ku Tobie Panie wznoszę dłoń,
  mój Boże dzięki Ci.
-
-[C3]
- Ref.: Jak wysłowić wdzięczność mą 
- za tysiące łask,
- jak okazać miłość mą?
- Mój Boże, powiedz, wskaż mi jak
- okazać miłość mą?
 
 [V3]
  3. Za błękit nieba, ptaków śpiew,
@@ -40,18 +26,13 @@
  Za uśmiech szczęścia, wiosny wiew,
  mój Boże dzięki Ci. 
 
-[C4]
- Ref.: Jak wysłowić wdzięczność mą 
- za tysiące łask,
- jak okazać miłość mą?
- Mój Boże, powiedz, wskaż mi jak
- okazać miłość mą?
- Mój Boże dzięki Ci,
+[K]
+ Coda: Mój Boże dzięki Ci,
  za wszystko dzięki Ci.</lyrics>
   <author>(3 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>C V1 C V2 C V3 C K</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

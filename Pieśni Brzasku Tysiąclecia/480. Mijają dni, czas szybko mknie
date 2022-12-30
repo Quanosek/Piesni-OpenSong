@@ -2,56 +2,44 @@
 <song>
   <title>480. Mijają dni, czas szybko mknie</title>
   <lyrics>[V1]
- 1. Mijają dni, czas szybko mknie  
- wciąż w bezpowrotną dal  
- i w wieczność płyną lata twe  
- jak z biegiem szybkich fal.  
- 
+ 1. Mijają dni, czas szybko mknie
+ wciąż w bezpowrotną dal
+ i w wieczność płyną lata twe
+ jak z biegiem szybkich fal.
+
 [C1]
- Ref.: Pójdź, nim ostatnie miną dni!  
- Przestrogi sygnał słysz!  
- Jak jasny blask w ciemnościach lśni  
- [: Golgoty Zbawczy krzyż. :]  
+ Ref.: Pójdź, nim ostatnie miną dni!
+ Przestrogi sygnał słysz!
+ Jak jasny blask w ciemnościach lśni
+ [: Golgoty Zbawczy krzyż. :]
 
 [V2]
- 2. Podstępnie mami błyskiem złud  
- zgubione dziecię świat.  
- On je w boleści, w nędzę wwiódł  
- i pokój duszy skradł.  
- 
-[C2]
- Ref.: Pójdź, nim ostatnie miną dni!  
- Przestrogi sygnał słysz!  
- Jak jasny blask w ciemnościach lśni  
- [: Golgoty Zbawczy krzyż. :]  
+ 2. Podstępnie mami błyskiem złud
+ zgubione dziecię świat.
+ On je w boleści, w nędzę wwiódł
+ i pokój duszy skradł.
 
 [V3]
- 3. Na ciebie wciąż z miłością swą  
- cierpliwie czeka Bóg,  
- chcąc cię oczyścić Zbawcy krwią,  
- odpuścić wszelki dług.  
- 
-[C3]
- Ref.: Pójdź, nim ostatnie miną dni!  
- Przestrogi sygnał słysz!  
- Jak jasny blask w ciemnościach lśni  
- [: Golgoty Zbawczy krzyż. :]  
+ 3. Na ciebie wciąż z miłością swą
+ cierpliwie czeka Bóg,
+ chcąc cię oczyścić Zbawcy krwią,
+ odpuścić wszelki dług.
 
 [V4]
- 4. Pan Jezus zna twój ciężar win,  
- On za nie życie dał.  
- Wierz tylko weń, On Boży Syn,  
- a wzniesiesz pieśni chwał.  
+ 4. Pan Jezus zna twój ciężar win,
+ On za nie życie dał.
+ Wierz tylko weń, On Boży Syn,
+ a wzniesiesz pieśni chwał.
 
-[C4]
- Ref.: Pójdź, nim ostatnie miną dni!  
- Spójrz na ratunek wzwyż!  
- Na cały świat zbawienie lśni,  
+[C2]
+ Ref.: Pójdź, nim ostatnie miną dni!
+ Spójrz na ratunek wzwyż!
+ Na cały świat zbawienie lśni,
  [: Golgoty Zbawczy krzyż. :]</lyrics>
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C1 V2 C1 V3 C1 V4 C2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

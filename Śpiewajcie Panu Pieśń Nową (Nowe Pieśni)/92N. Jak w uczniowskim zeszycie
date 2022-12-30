@@ -19,23 +19,11 @@
  Tylko ten jest szczęśliwy,
  kto dowiedział się raz.
 
-[C2]
- Ref.: [: Co jest najważniejsze,
- co jest najpiękniejsze,
- co prawdziwe, jedyne, największe,
- za co warto życie dać? :]
-
 [V3]
  3. Mój Zbawiciel Pan Jezus
  jak przyjaciel jest ze mną.
  Tylko jedno spojrzenie
  i na pewno już wiem.
-
-[C3]
- Ref.: [: Co jest najważniejsze,
- co jest najpiękniejsze,
- co prawdziwe, jedyne, największe,
- za co warto życie dać? :]
 
 [V4]
  4. Kochać co dzień od nowa,
@@ -43,7 +31,7 @@
  Zawsze być blisko Boga,
  iść z Jezusem przez świat.
 
-[C4]
+[C2]
  Ref.: [: To jest najważniejsze,
  to jest najpiękniejsze,
  to prawdziwe, jedyne, największe,
@@ -51,7 +39,7 @@
   <author>(4 zwrotki)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C1 V2 C1 V3 C1 V4 C2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
