@@ -2,13 +2,21 @@
 <song>
   <title>22N. Uwielbiać mego Pana chcę</title>
   <lyrics>[V]
+.D            G               A
  Uwielbiać mego Pana chcę,
+.Hm           G               A
  wyśpiewać Jemu nową pieśń,
+.Hm      G               Em                 Hm
  On ukojeniem i zbawieniem duszy mej,
+.G     Hm   Fis
  tylko Jemu służyć chcę.
+.G   D      Em                Hm
  Alleluja, uwielbiaj duszo ma,
+.G             Hm         G        A
  wywyższaj Pana, wywyższaj Go.
+.G   D      Em                Hm
  Alleluja, uwielbiaj duszo ma,
+.G                A                      D
  On godzien wszelkiej chwały jest.</lyrics>
   <author></author>
   <copyright></copyright>
@@ -23,8 +31,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

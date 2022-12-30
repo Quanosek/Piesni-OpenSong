@@ -2,19 +2,30 @@
 <song>
   <title>28N. Kto przebywać będzie</title>
   <lyrics>[C]
+.      A                     D
  Ref.: Kto przebywać będzie
+.A               D
  w namiocie Twym?
  Kto przebywać będzie
+.                      A
  na Twej górze świętej?
+.             G   A       D  Hm Em
  Ten, kto żyje nienagannie i mówi
+.A                      D
  prawdę w sercu swym.
 
 [V1]
+.                          G
  1. Nie obmawia językiem swym,
+.              D                Hm
  nie czyni zła bliźniemu swemu,
+.Em   A             D
  żyje dobrze z sąsiadem,
+.                       G
  czuje się wzgardzony
+.       D  Hm      E
  i niegodny, czci tych,
+.                       A
  którzy boją się Pana.
 
 [V2]
@@ -36,8 +47,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

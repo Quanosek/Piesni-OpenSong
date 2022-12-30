@@ -2,11 +2,17 @@
 <song>
   <title>14N. Więcej miłości</title>
   <lyrics>[V]
+.Gm                  Cm
  [: Więcej miłości, więcej mocy,
+.Dm                          Gm
  więcej Ciebie w życiu mym. :]
+.                     Cm      Dm          Gm
  Całym sercem swoim uwielbiam Ciebie!
+.                    Cm     Dm         Gm
  Z całej duszy swojej uwielbiam Cię!
+.                Cm     Dm          Gm
  Z całej siły swojej uwielbiam Ciebie!
+.                        Cm
  Tyś Panem mym jest!</lyrics>
   <author></author>
   <copyright></copyright>
@@ -21,8 +27,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

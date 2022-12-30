@@ -2,17 +2,27 @@
 <song>
   <title>20N. Ktoś Cię dzisiaj woła</title>
   <lyrics>[V1]
+.   G
  1. Ktoś cię dzisiaj woła,
+.C
  ktoś dzisiaj szuka,
+.G                                   D   D7
  ktoś wyciąga dzisiaj swoją dłoń.
+.G
  Wyjdź Mu na spotkanie
+.C
  z miłym przywitaniem,
+.G                 D              G
  nie lekceważ znajomości tej.
 
 [C]
+.                      C
  Ref.: Woła cię, szuka cię.
+.G                                          D
  Czy nie wyjdziesz dzisiaj Mu naprzeciw?
+.G                C
  Skończą się, skończą się
+.G              D     D7         G
  możliwości towarzystwa z Nim.
 
 [V2]
@@ -35,8 +45,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

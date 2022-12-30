@@ -2,15 +2,23 @@
 <song>
   <title>19N. Sługa Król</title>
   <lyrics>[V1]
+.   Hm        Fis                   C
  1. Opuścił dom, dzieckiem był,
+.A7          D               G    D  A
  na ziemię zszedł, Swą chwałę skrył,
+.Hm    Fis        G
  ażeby tu sługą być.
+.A7           D          G D     A
  Swe życie dał, bym ja mógł żyć.
 
 [C]
+.                        D   A7          Hm
  Ref.: To zbawca mój, to sługa Król,
+.              G         A         D
  zaprasza dziś, by za Nim iść.
+.A7      D                 D7                 G
  I życie swe wciąż w ofierze składać Mu.
+.                  D A7            D
  Bo godzien czci jest Sługa Król.
 
 [V2]
@@ -43,8 +51,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

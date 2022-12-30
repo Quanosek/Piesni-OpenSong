@@ -2,22 +2,37 @@
 <song>
   <title>4N. Pragnę dzisiaj ci powiedzieć</title>
   <lyrics>[V1]
+.               C
  1. Pragnę dzisiaj ci powiedzieć,
+.            F                          C
  pragnę wszystkim nieść tę wieść,
+.           Dm
  że Bóg bardzo kocha ciebie,
+.          G
  że On pragnie zmienić cię.
+.           C            Am
  On tak ludzi, umiłował,
+.          Dm
  że Swojego Syna dał,
+.      F                             C
  aby każdy, kto Weń wierzy,
+.           G                      C
  przebaczenie grzechów miał.
 
 [C]
+.              F          Em
  Ref.: Jezus to dziś moja pieśń,
+.F                  C
  Jezus zmienił życie me,
+.       Am   F                              C
  bo w Nim na nowo narodziłem się.
+.                 F           Em
  On pragnie w twoje serce wejść,
+.F                                    C
  On chce być z tobą na każdy dzień,
+.          Am   F                              C
  byśmy mogli, mogli spotykać się w niebie,
+.               Am   F                              C
  [: abyśmy mogli, mogli spotykać się w niebie :]
 
 [V2]
@@ -52,8 +67,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

@@ -2,15 +2,23 @@
 <song>
   <title>15N. W szumie trawy</title>
   <lyrics>[V1]
+.  E               Cism            A                    E
  1. W szumie trawy, w codziennym zmartwieniu,
+.            Cism      A           E
  w locie ptaka i w chwili zadumy
+.Fism   Cism          A                  E
  jak do Pana wciąż szukam mych dróg.
+.Fism       Cism      A                E
  Tak przy Panu na zawsze chcę trwać.
 
 [C1]
+.      H      Cism          A  Gism Fism  E
  Ref.: Ja do Pana wciąż szukam mych dróg.
+.Fism    Cism     A                 E
  Ja przy Panu na zawsze chcę trwać.
+.              Cism     A            Gism       Cism
  Choć me życie zawiłe, choć kręte jest tak,
+.        A               E                  H/E
  ja do Pana wciąż szukam mych dróg.
 
 [V2]
@@ -38,8 +46,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

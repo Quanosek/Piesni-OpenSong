@@ -2,15 +2,23 @@
 <song>
   <title>8N. Gdy ciemna noc zapada</title>
   <lyrics>[V1]
+.  G                 Em
  1. Gdy ciemna noc zapada,
+.Am              D
  blask świateł lśni na niebie,
+.G                  Em
  klęczę przed Twym obliczem
+.Am       D
  i modlę się do Ciebie.
 
 [C]
+.     G            Em
  Ref.: O, Panie, ja nędzny grzesznik,
+.Am            D
  chylę się w Twoje ramiona.
+.G                Em
  Bez Twej pomocy, Boże,
+.Am             D                  G     D
  nic przecież sam nie mogę znieść.
 
 [V2]
@@ -37,8 +45,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

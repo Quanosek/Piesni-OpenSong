@@ -2,16 +2,25 @@
 <song>
   <title>7N. Mój Jezus</title>
   <lyrics>[C]
+.             E        A                    H7
  Ref.: Mój Jezus Królem królów jest.
+.       E       A                   H7
  Mój Jezus władać będzie wciąż.
+.      E        A                  H7
  Królestwo Jego we mnie trwa,
+.                E
  On zbawił duszę mą
+.           A                      H7
  i teraz we mnie mieszka już.
 
 [V1]
+.          E        A                  H7
  1. On dał mi całkiem nowe życie,
+.   E               A                   H7
  uczynił mnie dzieckiem światłości,
+.        E                         A       H7
  dziedzictwem Swym obdarzył mnie,
+.          E                      A        H7
  bo umiłował mnie mój Ojciec, Bóg.
 
 [V2]
@@ -32,8 +41,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

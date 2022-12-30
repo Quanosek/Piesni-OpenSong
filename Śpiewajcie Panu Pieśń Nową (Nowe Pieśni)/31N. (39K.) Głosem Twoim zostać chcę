@@ -2,16 +2,25 @@
 <song>
   <title>31N. Głosem Twoim zostać chcę</title>
   <lyrics>[C]
+.      D           E     A            Fism
  Ref.: Głosem Twoim zostać chcę,
+.D        E     A
  mówić imię Jezus.
+.D          E     A            Fism
  Głosem Twoim zostać chcę,
+.              D
  o miłości Twej
+.                 E          A
  opowiadać ludziom chcę.
 
 [V1]
+.  D              E                           A       Fism
  1. Pamiętam dzień, w którym znalazłeś mnie,
+.D            E                 A
  włożyłeś w usta nową pieśń.
+.D            E                     A  Fism
  Jej treścią życia mądrość, siła jest,
+.D                E                    A
  Dziś głosem Twoim zostać chcę.
 
 [V2]
@@ -32,8 +41,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

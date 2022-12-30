@@ -3,15 +3,23 @@
   <title>30N. Stójmy razem</title>
   <lyrics>[C]
  Refren:
+.  C         G
  [: Stójmy razem,
+.C           G
  bo w jedności siła.
+.C        G      C         G
  Stójmy razem dzień i noc. :]
 
 [V1]
+.  C            D                   Hm
  1. Bądźmy wszyscy jednej myśli
+.C               D
  wzór Chrystusa Pana
+.Am              Em
  wiernie naśladując
+.           D            Hm
  z łagodnością i pokorą
+.C      G        C               D
  jedni drugim pomagajmy żyć.
 
 [V2]
@@ -40,8 +48,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

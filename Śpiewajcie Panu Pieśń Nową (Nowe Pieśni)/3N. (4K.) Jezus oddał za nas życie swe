@@ -2,14 +2,21 @@
 <song>
   <title>3N. Jezus oddał za nas życie swe</title>
   <lyrics>[V1]
+.     G  D           C
  1. [: Jezus oddał za nas życie swe,
+.G  D           Am
  Jezus kocha mnie. :]
 
 [C]
+.            C              G                 D
  Ref.: Kochajcie Pana, niech żyje w nas.
+.      C               G                Em
  Zbawiciel świata po wieczny czas.
+.     C              G           D
  Kochajcie Pana, a serce swe
+.     C            G               Em
  oddajcie Jemu gdyż kocha je,
+.         D
  kocha je.
 
 [V2]
@@ -32,8 +39,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

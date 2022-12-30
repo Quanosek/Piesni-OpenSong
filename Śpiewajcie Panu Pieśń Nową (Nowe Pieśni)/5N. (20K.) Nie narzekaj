@@ -2,15 +2,23 @@
 <song>
   <title>5N. Nie narzekaj</title>
   <lyrics>[V1]
+.            Am       C               G
  1. Gdy Izrael po puszczy wędrował,
+.     F                    C
  ocalony z faraona rąk,
+.         Am      C         G
  nie docenił opieki od Pana
+.      F          G               C
  i narzekał, i szemrał tam wciąż.
 
 [C]
+.                                 F                C
  Ref.: Nie narzekaj, nie szemraj, nie złorzecz,
+.                            F             G
  gdy na wąski wkroczyłeś ten szlak.
+.           C             F                C
  Nie narzekaj, nie szemraj, nie złorzecz,
+.          F           G               C
  nie narzekał na krzyżu twój Pan.
 
 [V2]
@@ -49,8 +57,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

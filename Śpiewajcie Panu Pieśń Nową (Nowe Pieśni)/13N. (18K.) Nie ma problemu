@@ -2,22 +2,34 @@
 <song>
   <title>13N. Nie ma problemu</title>
   <lyrics>[V1]
+.   G
  1. Nie ma problemu, by Pan
+.                Am
  rozwiązać nie mógł,
+.D
  burzy tak strasznej, by Pan
+.            G
  uciszyć nie mógł,
  bólu takiego, by Pan
+.         Am
  ukoić nie mógł,
+.D
  góry wysokiej, by Pan
+.            G
  usunąć nie mógł.
 
 [C]
  Ref.: Skoro poniósł On na barkach Swych
+.           Am
  ciężary światła,
+.D
  ja wiem, mój bracie,
+.                        G
  że On poradzi i twym.
  Skoro poniósł On na barkach Swych
+.           Am
  ciężary światła,
+.D                                                  G
  wiem, moja siostro, że On poradzi i twym.
 
 [V2]
@@ -52,8 +64,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>

@@ -2,21 +2,13 @@
 <song>
   <title>2. Tyś kazał nam, o Panie mój</title>
   <lyrics>[V1]
-.         E/Es                A/B
  1. Tyś kazał nam, o Panie mój,
-.                          D/Es
  w pokorze zawsze żyć,
-.    G/As  E/Es  A7/B7  D/Es
  cierpliwie znosić trud i znój
-.  E/F           E7/F7  A/B
  i zawsze wiernym być.
-.       D/Es  A7/B7  D/Es
  Twe Ciało, któreś za mnie dał,
-.   E/F                 A/B
  pokarmem moim jest.
-.A7/B7 D/Es        G/As  Asdim7/Adim7
  Tyś na nas Ducha swego zlał,
-.      D/Es      A/B     D/Es
  Tyś nam dał Ducha chrzest.
 
 [V2]
@@ -51,8 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs />
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false" />
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
