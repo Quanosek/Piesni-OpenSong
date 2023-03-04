@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Chcemy Ciebie wielbić</title>
+  <lyrics>[V1]
+.                             F                             Em
+ [: Chcemy Ciebie wielbić, szukać Twojej twarzy,
+.Am                 Dm           G               C
+ wcześnie o poranku i gdy noc kładzie cień.
+.                        F                                         Em
+ Tobie chcemy śpiewać, wznieść niebiańską chwałę,
+.Am               Dm            G                  C
+ kładąc nasze życie, byś je stale zmieniać mógł. :]
+
+[V2]
+.                  C/E      F            G   Am
+ Niech się wznosi dziś Twa chwała,
+. C/E  F  G
+ o Panie nasz!
+.             C/E    F      G  Am
+ To dla Ciebie nasze serca
+.  C/E  F   G
+ otwarte są!</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

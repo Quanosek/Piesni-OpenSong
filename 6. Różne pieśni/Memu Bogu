@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Memu Bogu</title>
+  <lyrics>[V1]
+.                 D       C
+ [: Memu Bogu, Królowi,
+.         A7              D
+ będę śpiewał tę pieśń.
+.           B              C
+ Teraz, zawsze, na wieki.
+.   D
+ Amen! :]
+
+[V2]
+.   F    C    A7  D7
+ [: Alleluja, alleluja,
+.B     C    D
+ alleluja, amen. :]</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
