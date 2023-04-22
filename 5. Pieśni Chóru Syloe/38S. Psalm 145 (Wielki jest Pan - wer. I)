@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>38. Psalm 145</title>
+  <title>38. Psalm 145 (I)</title>
   <lyrics>[V1]
- [: Wielki jest Pan, i godzien wielkiej chwały,
+ Wielki jest Pan, i godzien wielkiej chwały,
  a wielkość jego jest niezgłębiona.
  Pokolenia głoszą dzieła Twoje, 
  opowiadają o potędze Twej.
 
  Łaskawy i miłosierny jest Pan,
- łaskawy i miłosierny! :]
+ łaskawy i miłosierny!
 
 [V2]
  Bliski jest Pan wszystkim, którzy Go wzywają;
@@ -17,25 +17,18 @@
  ale wszystkich bezbożnych wytraci.
 
 [V3]
- Niechaj usta moje głoszą chwałę Pana,
+ [: Niechaj usta moje głoszą chwałę Pana,
  niech błogosławią Mu.
  Niechaj usta moje głoszą chwałę Pana,
- na wieki wieków.
-
- [: Chwała Najwyższemu! :]
+ na wieki wieków. (Chwała Najwyższemu) :]
 
 [V4]
- Niechaj usta moje głoszą chwałę Pana,
- niech błogosławią Mu.
- Niechaj usta moje głoszą chwałę Pana,
- na wieki wieków.
-
  [: Chwała Najwyższemu. :] x8
  Chwała i cześć!</lyrics>
   <author>muz. Michał Kubic</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4 V3 V4</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

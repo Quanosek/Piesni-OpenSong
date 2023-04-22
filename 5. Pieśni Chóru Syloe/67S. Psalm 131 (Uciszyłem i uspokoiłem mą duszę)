@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>67. Psalm 131</title>
-  <lyrics>[V1]
- [: Uciszyłem i uspokoiłem mą duszę. :] x4
+  <lyrics>[C1]
+ [: Uciszyłem i uspokoiłem mą duszę. 
+ Uciszyłem i uspokoiłem mą duszę. :]
 
+[V1]
  Panie, nie wywyższa się serce moje
  i nie wynoszą się moje oczy.
  Ani też nie chodzi mi o rzeczy zbyt wielkie
  i zbyt cudowne dla mnie.
 
+[C2]
+ [: Uciszyłem i uspokoiłem mą duszę. 
+ Uciszyłem i uspokoiłem mą duszę. :]
+
 [V2]
- [: Uciszyłem i uspokoiłem mą duszę :] x4
+ [: Jak dziecię odstawione od piersi u swej matki,
+ tak we mnie spokojna jest dusza moja. :] x3
 
- [: Jak dziecię odstawione od piersi u swej matki.
- Tak we mnie spokojna jest dusza moja. :] x3
-
- [: Izraelu! Oczekuj Pana teraz i na wieki! :] x3</lyrics>
+[V3]
+ [: Izraelu! Oczekuj Pana,
+ teraz i na wieki! :] x3</lyrics>
   <author>muz. Michał Kubic</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
