@@ -6,9 +6,11 @@
  W świecie tym jesteś sam.
  Kiedy brak ci siły, trochę szczęścia,
  W życiu twym jesteś sam.
- Pozwól wejść do serca swego Panu,
+
+[C1]
+ Ref.: Pozwól wejść do serca swego Panu,
  Bo On cię chroni i nie opuści.
- Pozwól Mu kierować życiem swoim
+ Pozwól mu kierować życiem swoim
  i w Jego ręce oddaj swój los.
 
 [V2]
@@ -16,24 +18,22 @@
  w życiu tym jest ci źle.
  Kiedy ludzie nagle zaczną z ciebie drwić,
  w świecie tym jest ci źle.
- Pozwól wejść do serca swego Panu,
- Bo On cię chroni i nie opuści.
- Pozwól Mu kierować życiem swoim
- i w Jego ręce oddaj swój los.
 
 [V3]
  3. Kiedy szczęście znów zapuka do twych drzwi,
  w życiu tym radość masz.
  Gdy twe życie wciąż na nowo budzi się,
  w świecie tym radość masz.
- Nie zamykaj serca przed twym Panem,
+
+[C2]
+ Ref.: Nie zamykaj serca przed twym Panem,
  bo On cię chroni i nie opuści.
  On za ciebie złożył swoje życie,
  więc w Jego ręce oddaj swój los.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C1 V2 C1 V3 C2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
