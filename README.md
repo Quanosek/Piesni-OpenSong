@@ -1,5 +1,5 @@
-# **Śpiewniki Badaczy Pisma Świętego dla programu OpenSong**
+## Śpiewniki i pieśni religijne dla programu **OpenSong**
 
-**Program OpenSong** oferuje wyświetlanie pokazu slajdów z tekstem pieśni, podzielone na zwrotki. Aby zainstalować ten program, [pobierz wszystkie pliki](https://github.com/Quanosek/Piesni-OpenSong/archive/refs/heads/main.zip), a następnie uruchom **_plik Install.exe_**. Po udanej instalacji, przenieść wszystkie foldery śpiewników do wybranej w programie lokalizacji _(lub domyślnego folderu "Songs")_.
+- Projekt ten zawiera foldery plików w formacie `.xml` dostosowane dla programu [**OpenSong**](https://sourceforge.net/projects/opensong/). Pliki te są wykorzystywane jako baza danych tekstów dla aplikacji **Śpiewniki** dostępnej pod podanymi linkami: [klalo.pl](https://spiewniki.klalo.pl/)/[nastrazy.org](https://spiewniki.nastrazy.org/).
 
-W przypadku zauważenie błędów w tekście lub problemie w instalacji, napisz do mnie na [maila](mailto:kubaklalo@gmail.com), w temacie pisząc: **OpenSong**.
+- W przypadku zauważenia błędów w tekście lub funkcjonowaniu konkretnych plików, proszę o kontakt drogą mailową: [kubaklalo@gmail.com](mailto:kubaklalo@gmail.com).
