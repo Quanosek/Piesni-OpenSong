@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>11. Oddajmy Tobie cześć</title>
+  <lyrics>[V1]
+.   Am            C
+ Dobry Boże, Ojcze Nasz,
+.    G                D
+ Ty naprawiasz ciągle nas.
+.  Am            C
+ Wielka wina u nas jest,
+. G                   D
+ więc oddajmy Tobie cześć.
+
+[V2]
+. F                C
+ Często tego nie widzimy
+.  G              Am
+ i po świecie tym błądzimy.
+. F                       C
+ Wciąż w zadumę swą wpadając,
+. G               Am
+ święte życie nadal grając.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

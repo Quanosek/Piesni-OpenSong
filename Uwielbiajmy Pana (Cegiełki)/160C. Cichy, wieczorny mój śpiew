@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>160. Cichy, wieczorny mój śpiew</title>
+  <lyrics>[C]
+ Refren:
+.   D
+ [: Cichy, wieczorny mój śpiew,
+.                        G A7 D
+ chciej usłyszeć, o Panie. :]
+
+[V1]
+.         D
+ 1. Za obłoków biel,
+.    Em
+ za tęczę pełną barw
+.D                   G
+ i za słoneczny krąg,
+.                 A7 D
+ dziękuję Ci Boże.
+.      D
+ Za świeży zapach lip,
+.    Em
+ za cichy wiatru szept,
+.D                      G
+ za nadchodzącą noc,
+.                 A7 D
+ dziękuję Ci Boże.
+
+[V2]
+ 2. Za wieczorną tę pieśń
+ i za krojony chleb,
+ za przyjacielską dłoń,
+ dziękuję Ci Boże.
+ Za niebo pełne gwiazd,
+ za szybki ptaka lot,
+ za to, żeś stworzył nas,
+ dziękuję Ci Boże.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>268. Każdy wiedzieć musi to</title>
+  <lyrics>[V1]
+.                                  E
+ [: Każdy wiedzieć musi to,
+.                              Cis7
+ każdy wiedzieć musi to,
+.                              Fis7 H7
+ każdy wiedzieć musi to,
+.               E
+ kim Jezus jest. :]
+
+[V2]
+.        E7             A
+ Jezus Lilią jest doliny.
+. E                              H7
+ On Poranną Gwiazdą mą.
+. E         E7               A
+ On Zbawiciel nasz jedyny.
+. E        H7                E
+ Każdy wiedzieć musi to.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

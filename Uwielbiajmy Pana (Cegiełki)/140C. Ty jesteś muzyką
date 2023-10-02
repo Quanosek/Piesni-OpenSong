@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>140. Ty jesteś muzyką</title>
+  <lyrics>[V1]
+. C
+ Ty jesteś muzyką i słowem,
+.                                  G
+ Ty jesteś pieśnią duszy mej.
+ Melodią jesteś Ty, harmonią jesteś Ty,
+.G7                               C
+ wielbić Panie chcę imię Twe.
+
+[V2]
+ Ty jesteś wielkim Bogiem,
+ Ty jesteś Panem Panów
+.C7                               F
+ i Królem Królów jesteś Ty.
+ Teraz przynoszę Tobie
+. C
+ pieśń, którą dałeś mi,
+.G           G7               C
+ bo moją pieśnią jesteś Ty.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

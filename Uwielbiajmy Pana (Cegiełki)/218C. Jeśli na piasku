@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>218. Jeśli na piasku</title>
+  <lyrics>[V1]
+.C
+ Jeśli na piasku zbudujesz swój dom,
+.                             G   G7
+ gdyby na piasku on stał,
+.               C                   C7
+ wiedz, że choćby piękny był
+.        F
+ i podwójne mury miał,
+.     C       A7         G         C   F C
+ budować będziesz jeszcze raz.
+
+[V2]
+.      G7       C
+ Na mocnej skale dom twój ma stać
+.G    C                         G7
+ i fundament on solidny musi mieć,
+.             C C7  F        Fm
+ bo gdy uderzy wiatr i deszcz,
+.         C        A7  D7 G7  C    C F 
+ twój dom będzie pewnie stał.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

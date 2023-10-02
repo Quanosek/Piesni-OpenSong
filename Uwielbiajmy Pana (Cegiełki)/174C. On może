@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>174. On może</title>
+  <lyrics>[V1]
+.          E             H7         E                  A
+ [: On może, On może, ja wiem, że On może,
+.    E                    H7                     E      (E7)
+ ja wiem, że Jezus może dopomóc i mnie. :]
+
+[V2]
+.      A
+ On leczył chore serca,
+.   E
+ utwierdzał chromych krok.
+.      Fis
+ On karmił głodnych, leczył trąd,
+.       H7
+ przywracał ślepym wzrok.
+
+[V3]
+ On może, On może, ja wiem, że On może,
+ ja wiem, że Jezus może dopomóc i mnie.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

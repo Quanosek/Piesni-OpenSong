@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>123. Alleluja, w Bogu nadzieję mam</title>
+  <lyrics>[C]
+.       G C  D  G C D  Em
+ Ref.: Alleluja, Alleluja,
+.   C  D  G          Em
+ w Bogu nadzieję mam,
+.C             D         G
+ On pełnią radości mej.
+
+[V1]
+.                                  C              G
+ 1. Przyjdźmy, radośnie śpiewajmy dziś
+.C                        D
+ skale naszego zbawienia,
+.                      G
+ z wdzięcznym sercem za wszystko
+.C            G             C                     D
+ dziękując Mu, wykrzykujmy radosną pieśń.
+
+[V2]
+ 2. Gdyż wielkim Bogiem jest nasz Pan,
+ Królem wszelkiego stworzenia.
+ Góry i morza w Jego ręku są,
+ On cudownie uczynił świat.
+ 
+[V3]
+ 3. Przyjdźmy i przed Nim pokłońmy się,
+ uklęknijmy przed Jego tronem.
+ On Bogiem naszym, On zbawił nas,
+ On broni nas ręką swą.</lyrics>
+  <author></author>
+  <copyright>Psalm 103:1-2</copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>30. Wszystkie narody</title>
+  <lyrics>[V1]
+.    A
+ 1. Wszystkie narody klaskajcie w dłonie,
+.Fism
+ wykrzykujcie Bogu radosnym głosem,
+.     D
+ bo Pan najwyższy
+.       E                       A      E
+ jest Królem nad całą ziemią.
+
+[C]
+.         A
+ Ref.: Śpiewajcie wszystkie narody,
+.Fism
+ śpiewajcie radosnym głosem,
+.  D           E   A
+ śpiewajcie Królowi!
+
+[V2]
+ 2. Bo Bóg króluje nad narodami,
+ Bóg zasiada na swym tronie.
+ Gdyż Bóg jest królem całej ziemi,
+ więc hymn śpiewajcie.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

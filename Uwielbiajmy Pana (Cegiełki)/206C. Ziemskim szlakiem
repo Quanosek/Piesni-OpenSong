@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>206. Ziemskim szlakiem</title>
+  <lyrics>[C]
+.        C            Em             F      C      Dm
+ Ref.: Ziemskim szlakiem wędruję Panie,
+.                          G               C   G
+ nade mną rozpostarłeś nieba strop.
+. C    Em           F         C      Dm
+ Nieustanne pielgrzymowanie
+.                            G               C   C7
+ odmierza rytmem Twoim ludzi krok.
+
+[V1]
+.  F                     C 
+ 1. Chcę znaleźć Ciebie
+.                 G                    F
+ wśród zwyczajnych spraw,
+.                G                     G     F
+ by Twoim domem był mój dom.
+.               C                      Em           Dm   C
+ Ty drogowskazem swoich wiecznych praw,
+.                  F                 C
+ wskazujesz drogę moim dniom.
+
+[V2]
+ 2. I choćby przyszło
+ przebyć setki mil,
+ nie chcę zmarnować ani dnia,
+ bo chwila wartość ma tysiąca chwil,
+ kiedy do Ciebie wiedzie szlak.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

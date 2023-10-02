@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>63. On jest moim życiem</title>
+  <lyrics>[V1]
+.         G                             Em
+ [: On jest moim życiem, On jest moją siłą,
+.      C                   G                D
+ On jest mą nadzieją, Jezus, mój Pan. :]
+
+[V2]
+. C               D                G
+ Wielbić Cię chcę życiem mym,
+. C              D                G
+ wielbić Cię chcę pieśnią mą,
+.     D                      G    E                Am
+ ze wszystkich mych sił uwielbiać Cię chcę,
+. F                      D
+ moja nadzieja to Ty.</lyrics>
+  <author></author>
+  <copyright>Filip. 1:21</copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

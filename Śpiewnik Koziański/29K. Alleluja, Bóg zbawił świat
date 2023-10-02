@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>29. Alleluja, Bóg zbawił świat</title>
+  <lyrics>[C]
+.             F  G     C              Am
+ Ref.: [: Alleluja! Bóg zbawił świat.
+.  F            G                 C  C7
+ Bóg Syna dał, by zbawił świat. :]
+
+[V1]
+.    F         G        C                Am
+ 1. Drogą boleści szedł niosąc krzyż.
+.F            G          C       C7
+ za nasze grzechy ofiarą był.
+. F        G              C             Am
+ Sam opuszczony, przez ludzi wzgardzony,
+. F           G                   C   C7
+ na Jego twarzy smutek i ból.
+
+[V2]
+ 2. Ukrzyżowany i poniżony,
+ wypełnił wolę Ojca Swojego.
+ Jego rany nas uzdrawiają,
+ Jego śmierć życie nam daje.</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

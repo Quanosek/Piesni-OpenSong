@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>232. Psalm 23</title>
+  <lyrics>[V1]
+.Em Am  C D          Em
+ Pan jest Pasterzem moim,
+.                      Am
+ niczego mi nie braknie,
+.        C        D         Em
+ na zielonych niwach pasie mnie,
+.                     Am         C  D  Em
+ nad spokojne wody prowadzi mnie.
+.                    Am
+ I duszę mą pokrzepia
+.  C                        Hm 
+ i wiedzie mnie ścieżkami
+.       C      D      E  
+ sprawiedliwości swojej.
+
+[V2]
+.Hm                    D      A           Em  
+ Choćbym nawet szedł ciemną doliną,
+.Hm           D        A       Em 
+ zła się nie ulęknę, boś Ty ze mną.
+.Hm D A  Em Hm D     A            Em 
+ Laska Twoja i kij Twój mnie pocieszają.
+.   Em    Am     C       D      Em
+ [: Laj, laj laj, laj, laj, laj, laj, laj, laj, laj, laj. :]</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
