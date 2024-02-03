@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Wszystko mogę</title>
-  <lyrics>[C1]
+  <lyrics>[C]
  Ref.: Wszystko mogę w tym,
  który mnie umacnia.
  Nie istnieje nic, co
@@ -19,17 +19,13 @@
  Nie strawi mnie ogień, zimne
  serca wzruszę.
 
-[C2]
- Ref.: Wszystko mogę w tym,
- który mnie umacnia.
- Nie istnieje nic, co
- niemożliwym nazwać.
-
- [: Jeśli Pan da. :] x8</lyrics>
+[K]
+ Coda:
+ [: Jeśli Pan da. Jeśli Pan da. :] x4</lyrics>
   <author>sł. i muz. Bogusia Pietrzyk</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>C1 V1 C1 V2 C2</presentation>
+  <presentation>C V1 C V2 C K</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

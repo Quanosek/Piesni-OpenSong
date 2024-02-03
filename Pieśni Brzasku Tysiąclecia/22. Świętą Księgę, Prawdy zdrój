@@ -2,10 +2,14 @@
 <song>
   <title>22. Świętą Księgę, Prawdy zdrój</title>
   <lyrics>[V1]
+.    B    A  B          F          B
  1. Świętą Księgę, Prawdy zdrój,
+.Gm   C7 B F Gm  C7    F
  skarb największy zesłał Pan.
+.B A7 B   D         Gm
  Ona koi ziemski znój,
- uświadamia ludzki stan. 
+.A7     B       F        B
+ uświadamia ludzki stan.
 
 [V2]
  2. Z Księgi bije światła blask,
@@ -20,20 +24,27 @@
  aż do końca ziemskich lat. 
 
 [V4]
- 4. Księgę świętą Boska dłoń
+ 4. Księgę Świętą Boska dłoń
  dała w hojnej łasce swej.
  Niezgłębioną Prawdy toń
- znajdujemy w Księdze tej. 
+ znajdujemy w Księdze tej.
 
 [V5]
  5. Chwalmy Pana za ten dar,
  co nam wskazał Boski plan.
  Z Biblii wiary czerpiem żar,
- w Biblii się objawił Pan!</lyrics>
+ w Biblii się objawił Pan!
+
+[V6]
+.II melodia:
+. G  D G Am D G
+. D G Am D G
+. D H Em A D A D
+. G  D G Am D G</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4 V5</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

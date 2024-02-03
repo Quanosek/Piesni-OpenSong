@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Psalm 118</title>
+  <lyrics>[C]
+ Refren:
+.  Dm    Dm7  Dm6
+ [: Ze haszar la'Szem
+. B             A    Dm
+ Tsadikim javo'u bo. :]
+
+[V1]
+.       Dm  Dm7     Dm6  Dm
+ 1. Pit'hu li sza'arei tsedek
+.   C           A7 Dm
+ Avo bam, odei ja.
+.    Dm Dm7     Dm6  Dm
+ Pit'huli sza'arei tsedek
+.   C                      A7  Dm
+ Avo bam, avo bam odei ja.
+
+[V2]
+.   Dm
+ 2. Ana HaSzem hoszija na
+.Dm                   A   Dm
+ Ana Haszem hatsliha na.
+.Dm       Dm7         Dm6
+ Ana HaSzem hoszija na
+. B                 C A Dm
+ Ana Haszem hatsliha.
+
+[V3]
+.          Dm
+ 3. [: Baruh haba be'szem HaSzem
+.     B                   C       Dm
+ Be'rahnuhem mitBeit HaSzem. :]</lyrics>
+  <author>muz. Yair Tel-Tsur</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

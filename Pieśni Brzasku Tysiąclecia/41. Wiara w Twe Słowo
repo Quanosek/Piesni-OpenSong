@@ -2,12 +2,18 @@
 <song>
   <title>41. Wiara w Twe Słowo</title>
   <lyrics>[V1]
+.     G                                               G    D
  1. Wiara w Twe Słowo do nieba nas wznosi.
+. Em                  Am    D    A      D
  Wzmocnieni tą wiarą wytężamy słuch,
+.G                                             G D
  by posiąść Prawdę, którą Słowo głosi,
+.Em                  Am  D        A        D
  tak czyniąc, jak każe święty Pański Duch.
+.G                     C   G  C G As7 Am
  Umocnij wiarę, lud Cię o to prosi,
- niechaj nas oświeci Twej mądrości Duch. 
+. D  G           C   G  Em        D       G
+ niechaj nas oświeci Twej mądrości Duch.
 
 [V2]
  2. Wiara nam każe wytrwać w każdej mierze.
@@ -23,11 +29,17 @@
  Silna jest wiara Nowego Stworzenia,
  wiarę tę nagrodzi wkrótce jego Król.
  Dzięki Ci, Panie, za Twe objawienia,
- które nam zostawił Twój Syn, a nasz Król.</lyrics>
+ które nam zostawił Twój Syn, a nasz Król.
+
+[V4]
+.II melodia:
+. G D G Am G D G
+. D G  D  A D
+.G  D G Am G D G</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

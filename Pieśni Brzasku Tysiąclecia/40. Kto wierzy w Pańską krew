@@ -2,38 +2,49 @@
 <song>
   <title>40. Kto wierzy w Pańską krew</title>
   <lyrics>[V1]
+.    As               Des       Es
  1. Kto wierzy w Pańską krew,
+.As               Des Es As
  kto Zbawcę wielbić chce,
+.                    Des As   Es  F B Es
  niech z nami wzniesie zgodny śpiew,
- niech z nami modli się. 
+. As         Des     Es As
+ niech z nami modli się.
 
 [V2]
  2. Cierpliwie znośmy trud,
  śpiewajmy Panu cześć,
  bo gdzie się zbiera Pański lud,
- tam śpiew należy wznieść. 
+ tam śpiew należy wznieść.
 
 [V3]
  3. Pobożnej pieśni dźwięk
  nadzieję wzmacnia w nas,
  podnosi serca, płoszy lęk
- i krzepi w każdy czas. 
+ i krzepi w każdy czas.
 
 [V4]
  4. Więc łączmy głosy swe,
  niech leci w niebo ton
  i razem, bracia, módlmy się,
- gdyż nas wysłucha On. 
+ gdyż nas wysłucha On.
 
 [V5]
  5. Modlitwa naszych warg
  w czystości niechaj brzmi.
  Na ucisk nie podnośmy skarg,
- bo idą lepsze dni.</lyrics>
+ bo idą lepsze dni.
+
+[V6]
+.II melodia:
+. A E A E E7 A
+. D Esm7 E
+. A  E A D
+. Es7 A E A E E7 A</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4 V5</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

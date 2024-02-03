@@ -2,38 +2,49 @@
 <song>
   <title>27. Dzieci, Ojciec wzywa was</title>
   <lyrics>[V1]
+.     A        E        A         E
  1. Dzieci, Ojciec wzywa was,
+.Fism A  D    A E  E7   A
  chwałą was obdarzyć chce,
+. A  E    A           D Hm   E
  bo już przyszedł słuszny czas,
- już Królestwo zbliża się. 
+.Fism A D  A    E E7  A
+ już Królestwo zbliża się.
 
 [V2]
  2. Obietnica, którą Pan
  dał dla wiernych swoich sług,
  uszczęśliwia ziemski łan.
- Już obecny Zbawca Pan. 
+ Już obecny Zbawca Pan.
 
 [V3]
  3. Dzieci, w niebo wznieście wzrok,
  tam, skąd spływa słońca blask,
  bo dziś świta Pański Rok,
- czas radości i czas łask. 
+ czas radości i czas łask.
 
 [V4]
  4. Wnet przeminie znój i trud,
  skończy się cierpienia ból.
  Ujrzy Zbawcę Pański lud,
- przyjmie nas do nieba Król. 
+ przyjmie nas do nieba Król.
 
 [V5]
  5. Dzieci Boże, wznieście śpiew,
  niechaj leci pieśni ton.
  Przez Jezusa świętą krew
- wejdziem do niebiańskich stron.</lyrics>
+ wejdziem do niebiańskich stron.
+
+[V6]
+.II melodia:
+. F Gm B F F7 F C7
+. F Dm A Ges7 Gm C F
+. F Gm B F F7 F C
+. F Ges7 Gm B F C F</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4 V5</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

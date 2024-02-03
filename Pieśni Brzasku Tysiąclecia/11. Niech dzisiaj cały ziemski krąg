@@ -2,10 +2,14 @@
 <song>
   <title>11. Niech dzisiaj cały ziemski krąg</title>
   <lyrics>[V1]
+.     G          D Em G  Em D  G
  1. Niech dzisiaj cały ziemski krąg
+.             D Em  C  G  D
  do Pana modły korne śle,
+.Em   D  G  D G     C   D     G
  bo z dobrotliwych Pańskich rąk
- świat zmartwychwstanie weźmie swe. 
+.                Em     D  Am  G   D   G
+ świat zmartwychwstanie weźmie swe.
 
 [V2]
  2. Już zstąpił Król z niebiańskich stron,
@@ -29,11 +33,19 @@
  5. I sprawiedliwy będzie rząd,
  nie będzie grzechu ani zła.
  Pan uszczęśliwi ziemski ląd 
- i doskonały żywot da.</lyrics>
+ i doskonały żywot da.
+
+[V6]
+.II melodia:
+. Cm Fm Cm G7
+. Cm G Cm
+. G Cm C
+. Fm Cm
+. As7 Fm Cm G7 Cm</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4 V5</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

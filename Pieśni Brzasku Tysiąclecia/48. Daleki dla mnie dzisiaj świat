@@ -2,10 +2,14 @@
 <song>
   <title>48. Daleki dla mnie dzisiaj świat</title>
   <lyrics>[V1]
+.   G D7 Em D G   D  G   D
  1. Daleki dla mnie dzisiaj świat,
+.G D7 Em C G Em D7 G
  samotny idę w nieba wyż
+.  D G  C D G  A  D
  i tylko taki jest mi brat,
- kto wierzy ze mną w Pański krzyż. 
+.       G       C  G      Em  D7  G
+ kto wierzy ze mną w Pański krzyż.
 
 [V2]
  2. Wytrwale dążę w Pański ślad,
@@ -23,11 +27,16 @@
  4. Lecz już niedługa droga ma,
  wędrówce kres położy zgon,
  a Pan nagrodę w niebie da
- i przyjmie na swój Boski tron.</lyrics>
+ i przyjmie na swój Boski tron.
+
+[V5]
+.II melodia:
+. Dm  Dm7 Gm  Dm
+. Gm  Dm Dm A A7 Dm</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>117. Chcę Panie sławić Cię wciąż</title>
-  <lyrics>[V]
+  <lyrics>[V1]
 .                     Dm
  [: Chcę, Panie, sławić Cię wciąż,
 .                 A
  bo Ty dźwignąłeś mnie wzwyż,
 .                                     Dm
  zamieniłeś w radość moje łzy. :]
+
+[V2]
 .D7          Gm Dm  C
  [: Z wdzięcznością wołam
 .        F       Dm
@@ -17,7 +19,7 @@
   <author></author>
   <copyright>Psalm 145:2</copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V1 V2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Światło mędrców</title>
+  <lyrics>[V1]
+ [: Światło mędrców, gwiazda pasterzy :]
+ [: Zajaśniała tamtej nocy, zajaśniała tamtej nocy :]
+ [: Wstała nadzieja, On się narodził :]
+
+[V2]
+ [: On nie skarbił skarbów w niebie,
+ On jak człowiek żył na ziemi.
+ Boży Syn w człowieka ciele,
+ Bożych Słów był wypełnieniem. :]
+ Wstała nadzieja!</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

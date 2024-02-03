@@ -2,9 +2,13 @@
 <song>
   <title>31. Boże, Ojcze, Stwórco nasz</title>
   <lyrics>[V1]
+.     F       C                     F
  1. Boże, Ojcze, Stwórco nasz,
+.             C                 F
  przyjmij służby dzieci Twych.
+. B           F        C Hdim C
  Daj nam ujrzeć swoją twarz
+.F      C                  F
  i od pokus obroń złych.
 
 [V2]
@@ -23,11 +27,16 @@
  4. Boże, Ojcze, chwała Ci
  za miłości i łask zdrój!
  Niech Twa chwała wiecznie brzmi,
- o, najlepszy Ojcze mój!</lyrics>
+ o, najlepszy Ojcze mój!
+
+[V5]
+.II melodia:
+. Cm  Cm G G7  Cm
+. Cm  Fm  Cm G Cm</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

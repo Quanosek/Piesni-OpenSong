@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>245. Pieśń Ruty</title>
-  <lyrics>[C1]
+  <lyrics>[C]
 .        A                  D             E      A
  Ref.: Gdziekolwiek pójdziesz z tobą ja,
 .                  Fism        H7              E
@@ -21,12 +21,6 @@
 .                    D  E  A
  On mi kazał z tobą iść.
 
-[C2]
- Ref.: Gdziekolwiek pójdziesz z tobą ja,
- zamieszkam gdzie mieszkanie swe masz.
- Twój lud, to lud mój, twój Bóg - Bóg mój.
- Dokąd pójdziesz z tobą ja.
-
 [V2]
  2. Niech z tobą, proszę, idę tam,
  gdzie Bóg ukoiłby ból mych ran.
@@ -34,15 +28,14 @@
  gdzie umrzesz ty,
  tam osuszy Bóg me łzy.
 
-[C3]
- Ref.: Gdziekolwiek pójdziesz z tobą ja,
- zamieszkam gdzie mieszkanie swe masz.
- [: Twój lud, to lud mój, Bóg twój, Bóg mój.
- Dokąd pójdziesz z tobą ja. :]</lyrics>
+[K]
+ Coda: Twój lud, to lud mój,
+ Bóg twój, Bóg mój.
+ Dokąd pójdziesz z tobą ja.</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>C V1 C V2 C K</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
