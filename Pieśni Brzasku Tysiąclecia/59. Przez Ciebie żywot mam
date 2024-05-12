@@ -2,13 +2,20 @@
 <song>
   <title>59. Przez Ciebie żywot mam</title>
   <lyrics>[V1]
+.     F
  1. Przez Ciebie żywot mam,
+. C
  przez Ciebie Ojca znam.
+. F      G      H
  Ach, dzięki Ci!
+. C
  Tyś za nas dał swą krew,
+. F
  Tyś zgasił Boski gniew,
+.B           F
  zacząłeś Prawdy siew
- posiewem krwi. 
+.C              F
+ posiewem krwi.
 
 [V2]
  2. Dziś w Tobie cały świat
@@ -17,7 +24,7 @@
  Radością serce drga,
  bo wkrótce władza Twa,
  nad ziemią rządzić ma
- Królestwo Twe. 
+ Królestwo Twe.
 
 [V3]
  3. I wkrótce, Zbawco, dasz,
@@ -26,7 +33,7 @@
  I skończy się nasz znój,
  zwycięsko przejdziem bój
  i przyjmiesz Kościół Twój
- do chwały swej. 
+ do chwały swej.
 
 [V4]
  4. Koronę dla Twych sług
@@ -35,11 +42,19 @@
  bo już Twój świta dzień,
  już pierzcha nocy cień
  i wśród anielskich pień
- królujesz nam.</lyrics>
+ królujesz nam.
+
+[V5]
+.II melodia:
+. D G  D G D G
+. D G  D G D
+. G  D  G Am G
+. D G Am
+. G  C G Am G D7 G</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V3 V4</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
