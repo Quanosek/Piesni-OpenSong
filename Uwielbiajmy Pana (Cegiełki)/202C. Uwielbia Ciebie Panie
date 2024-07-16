@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>147. Uwielbia Ciebie Panie ziemia</title>
+  <title>202. Uwielbia Ciebie Panie</title>
   <lyrics>[V1]
+.                 Am               G
  1. Uwielbia Ciebie, Panie ziemia
+.            Am
  szachownicą pól,
+.                                 G    C      E7
  uwielbia Ciebie, Panie cały świat.
+.             Am                   G
  Tęczą kolorów, szumem borów,
+.       Am
  krajobrazem gór,
- jesiennym listkiem co na ziemię spadł.
+.                                      G        Am
+  jesiennym listkiem co na ziemię spadł.
 
 [C]
  Refren:
+.   Am      F              G      C     E7
  [: Pochwalony bądź Panie nasz.
+.Am    F               G     Am
  Uwielbiony bądź Boże nasz. :]
 
 [V2]
@@ -45,5 +53,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

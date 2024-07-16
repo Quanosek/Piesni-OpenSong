@@ -4,22 +4,24 @@
   <lyrics>[V1]
 .A7             Dm
  Uwielbiajcie Pana
-.A7        Dm     A7   Dm      A7 Dm
- ludzkich serc, bijące dzwony.
+.A7        Dm    A7   Dm      A7 Dm
+ ludzkich serc bijące dzwony.
 .A7            Dm
  Padnij na kolana
-.A7            Dm   A7  Dm    A7 Dm
- przed Nim, ludu utrudzony.
+.A7            Dm   A7  Dm   A7 Dm
+ przed Nim ludu utrudzony.
+
+[V2]
 .A7    F                G
  On osuszy twoje łzy,
 .        Dm        A7      Dm
  On ratunkiem będzie Ci.
-
-[V2]
 .A7       Dm             A7
  U Jego stóp padnie wróg,
 .           Dm      A7    Dm   A7 Dm
  bo On Bóg niezwyciężony.
+
+[V3]
 . A7    F                     G
  Niepojęty w Swej mądrości,
 .           Dm     A7     Dm
@@ -31,7 +33,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 V1 V2</presentation>
+  <presentation>V1 V2 V3 V1 V2 V3</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
