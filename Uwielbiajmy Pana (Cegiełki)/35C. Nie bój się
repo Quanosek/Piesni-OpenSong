@@ -43,7 +43,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs>
+  <linked_song>Pieśni Brzasku Tysiąclecia\272. Do boju w imię krzyża</linked_song></linked_songs>
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
