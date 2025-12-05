@@ -3,7 +3,7 @@
   <title>Jesteś Który Jesteś</title>
   <lyrics>[V1]
  Przychodzimy by odejść,
- a nasze życie - oka mgnienie.
+ a nasze życie oka mgnieniem.
  Dla Boga to tylko jeden moment,
  a dla nas czas trudów, zabiegania.
  
@@ -17,15 +17,23 @@
  [: Tylko Ty - Jesteś Który Jesteś,
  tylko Ty - nieprzerwanie trwasz! :]
 
-[K]
- Przychodzimy...
- Odchodzimy...
+[V3]
+ Przychodzimy by odejść,
+ a nasze życie - oka mgnienie.
+ Dla Boga to tylko jeden moment,
+ a dla nas czas trudów, zabiegania.
+ 
+[V4]
+ Odchodzimy by powstać,
+ do życia kiedyś w Twym Królestwie.
+ Po krótkim śnie nastanie dzień ten,
+ za którym człowiek ciągle tęskni.
 
 [C2]
  [: Tylko Ty - Jesteś Który Jesteś,
  tylko Ty - nieprzerwanie trwasz! :]
 
-[V3]
+[V5]
  Dziś Twój Plan wypełnia się - ja to wiem,
  zmartwychwstania świta dzień,
  zmartwychwstania,
@@ -34,12 +42,11 @@
 [C3]
  [: Tylko Ty - Jesteś Który Jesteś,
  tylko Ty - nieprzerwanie trwasz! :] x3
-
  Coda: Tylko Ty.</lyrics>
   <author>sł. Michał Sochacki, muz. Michał Kubic</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C1 V1 V2 C2 V3 C3</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
