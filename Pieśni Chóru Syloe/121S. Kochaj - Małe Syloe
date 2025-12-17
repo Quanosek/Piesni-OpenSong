@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Kochaj</title>
+  <lyrics>[C]
+.           G                      Am
+ Ref.: [: Kochaj Boga z całego serca swego,
+.C                   D
+ kochaj z całej duszy. :]
+.    C                     D
+ [: On jest Panem, On wybawia,
+.Em  Hm
+ ufaj Mu. :]
+
+[V1]
+.   G/D            Cism7*  C              G/H
+ 1. Wyrwał z niewoli, obłokiem prowadził.
+.G/D        Cism7*  C               G/H
+ Morze rozdzielił i wrogów ich zgładził.
+
+[V2]
+ 2. Pustynią wiódł ludzi, ze skały dał wodę,
+ i mannę z niema. Pokazać chciał drogę.</lyrics>
+  <author>sł. i muz. Bogusia Pietrzyk</author>
+  <copyright>"Małe Syloe"</copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Psalm 145 (II)</title>
+  <lyrics>[V1]
+.    B             Am B              Am
+ [: Wielki jest Pan i godzien wielkiej chwały,
+.B              Am         B       Am
+ a wielkość Jego jest niezgłębiona.
+.B     Am  B          Am
+ Pokolenia głoszą dzieła Twoje,
+.B        Am         B        Am
+ opowiadają o potędze Twej.
+
+.Dm     Gm     Am A       Dm
+ Łaskawy i miłosierny jest Pan,
+.Dm    Gm      Am
+ łaskawy i miłosierny! :]
+
+[V2]
+.B            Am                B           Am
+ Bliski jest Pan wszystkich, którzy Go wzywają;
+.B                 Am                 B     Am
+ Wszystkich, którzy Go wzywają szczerze.
+.B               Am  B          Am
+ Pan strzeże ludzi, którzy Go miłują,
+.B    Am                 B               Am
+ ale wszystkich bezbożnych wytraci.
+
+[V3]
+.   Dm      Gm  Am             Dm    Dm/Cm
+ [: Niechaj usta moje głoszą chwałę Pana,
+.B                C      Dm
+ niech błogosławią Mu.
+.Dm       Gm  Am             Dm    Dm/Cm
+ Niechaj usta moje głoszą chwałę Pana,
+.B            C  Dm
+ na wieki wieków. (Chwała Najwyższemu) :]
+
+[V4]
+. Dm
+ [: Chwała Najwyższemu!
+ Chwała Najwyższemu! :] x4
+ Chwała i cześć!</lyrics>
+  <author>muz. Michał Kubic</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V3 V4 V3 V4</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

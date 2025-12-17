@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Psalm 113</title>
+  <lyrics>[V1]
+.    C                 G     Am              G
+ [: Wszystkie narody, klaskajcie w dłonie,
+.C             G         Am          G/D
+ głosem radosnym śpiewajcie mu. :]
+
+[V2]
+.Am           G/H       C               G/D
+ Pan jest najwyższy, Pan wielkim królem,
+.Am      G/Hm C            Em
+ poddaje ludy pod naszą moc.
+.               Am        G/Hm
+ Wśród radosnych okrzyków,
+.           C       Em
+ przy odgłosie trąb,
+.              F             Em
+ wśród radosnych okrzyków
+.         G D G
+ występuje on.
+
+[V3]
+. F         Am     F             Am
+ Grajcie Bogu, grajcie Królowi!
+.       Dm        C         F              Am
+ Bóg bowiem królem całej ziemi jest.
+.       F        G
+ Śpiewajcie Mu!</lyrics>
+  <author>sł. i muz. Bogusia Pietrzyk</author>
+  <copyright>"Małe Syloe"</copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

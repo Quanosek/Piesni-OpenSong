@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Pożegnanie</title>
+  <lyrics>[V1]
+.    G
+ 1. Choć pewnie stąd odejdę
+.D
+ będąc wciąż jeszcze w drodze,
+.Em
+ to przecież i tak dotrę.
+.C
+ Teraz zaś ciut odpocznę.
+
+[C1]
+.       G
+ Ref.: W dali przede mną jaspis,
+.D
+ gościnne święte miasto.
+.Em
+ Na chwilę zmrużę oczy,
+.C
+ na chwilę tylko zasnę.
+
+[C2]
+.           Em
+ To jaki kto ma dystans przed sobą do przebycia
+.                C
+ może być złudne czasem, jak i horyzont życia.
+.              G
+ Jesteśmy tu przejazdem, przelotem, mimochodem.
+.               D
+ Niebieski szlak prowadzi poza widnokrąg, w nowe.
+
+[V2]
+ 2. Choć pewnie stąd odejdę
+ nie całkiem gotów jeszcze,
+ to przecież warto było być tu,
+ warto też poznać lepsze.</lyrics>
+  <author>sł. i muz. Michał Kubic, Iwona Sochacka</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C1 C2 V2 C1 C2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
