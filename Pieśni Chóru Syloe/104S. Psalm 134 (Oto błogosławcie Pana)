@@ -2,9 +2,9 @@
 <song>
   <title>Psalm 134</title>
   <lyrics>[C]
-.                  F                  B/F
+.                  F                  B/Fm
  Ref.: [: Oto błogosławcie Pana,
-.C/F                 B/F
+.C/F                 B/Fm
  wszyscy słudzy Pana,
 . F                                            E B
  którzy co noc służycie w domu Jego. :]
@@ -18,19 +18,17 @@
  i błogosławcie Pana,
 .B                                 F
  podnoście ręce ku świątyni,
-[V2]
 .    E      B          F
  [: błogosławcie Go! :] x4
 
-[V3]
+[V2]
  2. [: Niech Ci błogosławi z Syonu Pan,
  który uczynił niebo i ziemię. :]
-[V4]
  [: błogosławcie Go! :] x4</lyrics>
   <author>muz. Michał Kubic</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>C V1 V2 C V3 V4 C</presentation>
+  <presentation>C V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
