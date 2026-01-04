@@ -2,16 +2,16 @@
 <song>
   <title>5. Chwalę Ciebie Panie</title>
   <lyrics>[V1]
-.                    C                  Em
- [: Chwalę Ciebie Panie, i uwielbiam,
-.                   F
+.                        C                Em
+ 1. [: Chwalę Ciebie Panie i uwielbiam,
+.                  F
  wznoszę w górę swoje ręce,
-.          G
+.        G
  uwielbiając imię Twe. :]
 
-[V2]
+[C]
 .                   C
- [: Bo wielkiś Ty,
+ Ref.: [: Bo wielkiś Ty,
 .                                Em
  wielkie dzieła czynisz dziś,
 .                     F
@@ -22,14 +22,14 @@
 [K]
  ————————————
 
-[V3]
- [: Dzięki Tobie, Jezu, drogi zbawco!
+[V2]
+ 2. [: Dzięki Tobie, Jezu, drogi zbawco!
  Za Twój krzyż Tobie dziękuję,
  uwielbiając imię Twe. :]</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 V1 V2</presentation>
+  <presentation>V1 C V1 C</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

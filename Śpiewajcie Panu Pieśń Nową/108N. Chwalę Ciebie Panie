@@ -3,7 +3,7 @@
   <title>108. Chwalę Ciebie Panie</title>
   <lyrics>[V1]
 .                         C           Em
- [: Chwalę Ciebie Panie, i uwielbiam,
+ [: Chwalę Ciebie Panie i uwielbiam,
 .                 F                G
  wznoszę w górę swoje ręce,
  uwielbiając imię Twe. :]
@@ -17,12 +17,29 @@
  nie dorówna Tobie nikt,
 .          G
  nie dorówna Tobie nikt. :]
+
+[V3]
+.                         C           Em
+ [: Chwalę Ciebie Panie i uwielbiam,
+.                 F                G
+ wznoszę w górę swoje ręce,
+ uwielbiając imię Twe. :]
+
+[V4]
+.                   C
+ [: Bo wielkiś Ty,
+.                               Am
+ wielkie dzieła czynisz dziś,
+.                              F
+ nie dorówna Tobie nikt,
+.          G
+ nie dorówna Tobie nikt. :]
 .                          C
  Coda: Bo wielkiś Ty!</lyrics>
   <author></author>
   <copyright>2 Mojż. 15:2</copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 V1 V2</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
