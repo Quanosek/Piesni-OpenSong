@@ -11,14 +11,16 @@
  [: Podaj mi dłoń,
  zróbmy krok ten razem,
  chociaż wszędzie mgła.
- Widzę znak,
- mamy siebie w darze
- Sam nie jesteś. :]
- (Wstań, [: nie jesteś sam :])</lyrics>
+ Widzę znak!
+ Mamy siebie w darze,
+ sam nie jesteś. :]
+
+[V3]
+ [: Nie jesteś sam! :]</lyrics>
   <author>sł. i muz. Paweł Kupski</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V1 V2 V3</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

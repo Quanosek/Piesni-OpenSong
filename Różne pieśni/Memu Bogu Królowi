@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Psalm 125</title>
+  <title>Memu Bogu Królowi</title>
   <lyrics>[V1]
- Którzy ufają w Panu,
- są jako góra Syon,
- która się nie poruszy,
- ale na wieki zostaje.
- [: Pokój niech będzie nad Izraelem. :]
+.   F    C    A7  D7
+ [: Alleluja, alleluja,
+.B     C    D
+ alleluja, amen. :]
 
 [V2]
- Jako około Jeruzalemu są góry,
- tak Pan jest około ludu swego.
- Od tego czasu aż i na wieki,
- pokój niech będzie nad Izraelem.</lyrics>
-  <author></author>
+.                 D       C
+ [: Memu Bogu Królowi,
+.         A7              D
+ będę śpiewał tę pieśń.
+.           B              C
+ Teraz, zawsze, na wieki.
+.   D
+ Amen! :]
+
+[V3]
+.   F    C    A7  D7
+ [: Alleluja, alleluja,
+.B     C    D
+ alleluja, amen. :]</lyrics>
+  <author>Owca</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2 V1 V2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

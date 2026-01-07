@@ -1,37 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Panie, zostań z nami</title>
-  <lyrics>[C]
+  <lyrics>[C1]
  Ref.: Panie, zostań z nami.
  Zostań, bo zapada noc.
  Zmrok już niebo skrzy gwiazdami.
  Zostań, bo zapada moc.
 
 [V1]
- 1. W (ciepłej) izbie i przy (czystym) stole
- łamać chleb i wodę (życia) pić.
- Chłodną dłoń na (zmęczonym) czole
- poczuć, stopy (znużone) myć.
+ 1. W ciepłej izbie i przy czystym stole
+ łamać chleb i wodę życia pić.
+ Chłodną dłoń na zmęczonym czole
+ poczuć, stopy znużone myć.
+
+[C2]
+ Ref.: Panie, zostań z nami.
+ Zostań, bo zapada noc.
+ Zmrok już niebo skrzy gwiazdami.
+ Zostań, bo zapada moc.
 
 [V2]
- 2. W ciszy (nocy najczulej) koi
- Mistrza głos, (jak) matczyny śpiew.
- (Ufne) dziecko (do snu) ukoi,
- zniknie strach i (ucichnie) gniew.
+ 2. W ciszy nocy najczulej koi
+ Mistrza głos jak matczyny śpiew.
+ Ufne dziecko do snu ukoi,
+ zniknie strach i ucichnie gniew.
+
+[C3]
+ Ref.: Panie, zostań z nami.
+ Zostań, bo zapada noc.
+ Zmrok już niebo skrzy gwiazdami.
+ Zostań, bo zapada moc.
 
 [V3]
- 3. (A gdy) ranek nadejdzie nowy,
+ 3. A gdy ranek nadejdzie nowy,
  ruszyć trzeba w codzienny gwar.
- (Służyć,) kochać, wciąż (być) gotowym,
- (ponieść) ludziom (Twej) Prawdy dar.
+ Służyć, kochać, wciąż być gotowym,
+ ponieść ludziom Twej Prawdy dar.
 
-[K]
- Coda:
- Zostań, bo zapada noc!</lyrics>
+[C4]
+ Ref.: Panie, zostań z nami.
+ Zostań, bo zapada noc.
+ Zmrok już niebo skrzy gwiazdami.
+ Zostań, bo zapada moc.
+ Coda: Zostań, bo zapada noc!</lyrics>
   <author>sł. Barbara Kaleta</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>C V1 C V2 C V3 C K</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

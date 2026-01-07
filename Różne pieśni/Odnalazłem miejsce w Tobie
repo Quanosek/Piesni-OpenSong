@@ -2,34 +2,34 @@
 <song>
   <title>Odnalazłem miejsce w Tobie</title>
   <lyrics>[V1]
- 1. Odnalazłem miejsce w Tobie,
+ Odnalazłem miejsce w Tobie,
  dziś nadzieję w sercu mam.
  Niech moje życie będzie odbiciem Twym,
  chcę coraz lepiej Ciebie znać.
- Tylko Ciebie Ojcze znać!
+ Tylko Ciebie, Ojcze, znać!
 
 [V2]
  Twa obecność między nami,
  tak pragnę ujrzeć Twoją twarz.
  Pozwól nam się zgubić w miłości Twej,
  chcę coraz lepiej Ciebie znać.
- Tylko Ciebie Ojcze znać!
+ Tylko Ciebie, Ojcze, znać!
 
-[C]
- Ref.: Mam powód, aby żyć
+[V3]
+ [: Mam powód, aby żyć
  i każdy mój dzień oddaję Ci,
  by głosić prawdę Twą,
  nadzieję nieść,
- być tam gdzie Ty.
+ być tam gdzie Ty. :]
 
-[V3]
- 2. [: Chcę dla Ciebie,
- Chcę dla Ciebie żyć,
- Jezu! :] x4</lyrics>
+[V4]
+ Coda:
+ [: Chcę dla Ciebie,
+ Chcę dla Ciebie żyć, Jezu! :]</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C V3 C</presentation>
+  <presentation>V1 V2 V3 V1 V2 V3 V4</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

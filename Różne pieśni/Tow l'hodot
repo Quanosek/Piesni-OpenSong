@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Tow l’hodot</title>
-  <lyrics>[V]
+  <lyrics>[T]
+ „Dobrze jest dziękować Panu
+ i śpiewać imieniu Twemu, o Najwyższy:”
+
+[V]
  [: Tow l’hodot la Adonaj
  u l’zamer l’Szim’cha Eljon :]</lyrics>
   <author></author>
   <copyright>Psalm 92:2</copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

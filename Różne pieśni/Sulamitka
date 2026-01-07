@@ -1,46 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Sulamitka</title>
-  <lyrics>[C1]
+  <lyrics>[K1]
+. Em  Am  Em  Hm  Em  Am  H7
  Laj la la laj...
- Ref.: [: Nawróć się, nawróć się,
- o Sulamitko!
+
+[C]
+.        Em              Hm            Em     Hm
+ Ref.: Nawróć się, nawróć się, o Sulamitko!
+.Em               Hm
  Nawróć się, nawróć się,
- niech na cię patrzymy. :]
+.Em              D7
+ niech na cię patrzymy.
+. G                D              G       E7
+ Nawróć się, nawróć się, o Sulamitko!
+.Fis                   H7
+ Niech na cię patrzymy.
 
 [V1]
- 1. Miły mój wstąpił do ogrodu
- swego między nagonki ziół wonnych,
+.           G     D               Em     H7
+ 1. Miły mój wstąpił do ogrodu swego
+.               Em           D
+ między zagonki ziół wonnych,
+.       G         Fis                     H7
  aby pasł w ogrodach i zbierał lilie.
 
-[C2]
- Ref.: [: Nawróć się, nawróć się,
- o Sulamitko!
- Nawróć się, nawróć się,
- niech na cię patrzymy. :]
-
 [V2]
- 2. Pięknaś ty, przyjaciółko moja
- jako Tersa, pięknaś jak Jeruzalem
+.                G           D               Em   H7
+ 2. Pięknaś ty, przyjaciółko moja jako Tersa,
+.                 Em D
+ pięknaś jak Jeruzalem,
+.  G               Fis                  H7
  ogromna jak wojsko uszykowane.
 
-[C3]
- Ref.: [: Nawróć się, nawróć się,
- o Sulamitko!
- Nawróć się, nawróć się,
- niech na cię patrzymy. :]
-
-[K]
+[V3]
+.                     G             D
  Coda: Cóż widzicie Sulamitce?
+.           Em
  Cóż widzicie?
- Widzimy jakoby hufy wojenny,
- jakoby Tersa ogromna,
+.H7          Em
+ Widzimy jakoby hufy wojenne,
+.                  G
+ jest jakoby Tersa ogromna,
+.      Fis                 H7
  jak wojsko uszykowane.
+
+[K2]
+. Em  Am  Em  Hm  Em  Am  H7
  Laj la la laj...</lyrics>
   <author></author>
   <copyright>PnP. 6:1, 3, 12</copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>C V1 C V2 C V3</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

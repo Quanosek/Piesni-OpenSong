@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Memu Bogu</title>
+  <title>Modlitwa Jonasza</title>
   <lyrics>[V1]
-.                 D       C
- [: Memu Bogu, Królowi,
-.         A7              D
- będę śpiewał tę pieśń.
-.           B              C
- Teraz, zawsze, na wieki.
-.   D
- Amen! :]
+ [: Wyciągnąłeś mnie, zbawiłeś,
+ dałeś szansę, uchwyciłeś.
+ Teraz wiem, że w Tobie życie jest. :]
 
 [V2]
-.   F    C    A7  D7
- [: Alleluja, alleluja,
-.B     C    D
- alleluja, amen. :]</lyrics>
+ [: Gdy się burza rozszaleje,
+ kiedy fale dosięgają mnie,
+ w Tobie tylko mam nadzieję,
+ od Ciebie ratunku chcę! :]</lyrics>
   <author></author>
-  <copyright></copyright>
+  <copyright>"Małe Syloe"</copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 V1 V2</presentation>
+  <presentation>V1 V2</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>

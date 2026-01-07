@@ -3,7 +3,9 @@
   <title>Hinej ma tow</title>
   <lyrics>[V]
  [: Hinej ma tow umanaim
- Szewet achim gam jachad :] x4</lyrics>
+ Szewet achim gam jachad :]
+ [: Hinej ma tow
+ Szewet achim gam jachad :]</lyrics>
   <author></author>
   <copyright>Psalm 133</copyright>
   <hymn_number></hymn_number>
@@ -17,7 +19,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
-  <linked_songs/>
+  <linked_songs>
+  <linked_song>Uwielbiajmy Pana (Cegiełki)\60C. Zobaczcie jak jest dobrze</linked_song></linked_songs>
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
