@@ -21,6 +21,7 @@
 .                      Dm        Am
  Długo żyłem w grzechu swym.
 
+[V2]
 .    C                         D
  Ujrzałeś mnie w ciemności,
 .        C                    D
@@ -30,12 +31,13 @@
 .      C       D
  Wahałem się.
 
-[V2]
+[V3]
  2. Trwać przy boku Twoim, Panie mój,
  pragnę odtąd Tyś mój dział,
  nie chwieję się, bo Ty wspierasz mnie.
  Chcę przy Tobie wiernie trwać.
 
+[V4]
  Dziś wiem, że w niebie, gdzie Twój tron,
  dasz mi ujrzeć Swoją twarz.
  Królestwa Twego bliskie dni.
@@ -43,7 +45,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>C V1 C V2 C</presentation>
+  <presentation>C V1 V2 C V3 V4 C</presentation>
   <ccli></ccli>
   <capo print="false" sharp="true"></capo>
   <key></key>
