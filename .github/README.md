@@ -4,7 +4,7 @@ Repozytorium zawiera kolekcję plików w formacie `.xml` dostosowanych do progra
 
 W przypadku zauważenia błędów w tekście lub problemów z funkcjonowaniem konkretnych plików, proszę o kontakt e-mailowy: [spiewniki@klalo.pl](mailto:spiewniki@klalo.pl). 📧
 
-## ☕ Wsparcie projektu
+## Wsparcie projektu
 
 Jeśli projekt okazał się przydatny, możesz postawić mi kawę jako podziękowanie za włożoną pracę.
 
